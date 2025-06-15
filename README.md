@@ -4,41 +4,24 @@ This project investigates whether Large Language Models (LLMs) encode feature in
 
 ## Project Overview
 
-This project analyzes how LLMs process and integrate features through:
-
-1. **Feature Analysis**
-   - Extracts and analyzes features from LLM activations using Sparse Autoencoders (SAE)
-   - Identifies feature patterns and their activation statistics
-   - Examines feature specificity and interactions between features
-
-2. **Feature Integration Studies**
-   - Analyzes how features combine and interact in the model
-   - Studies both linear and non-linear feature interactions
-   - Investigates feature co-activation patterns
-
-3. **Intervention Analysis**
-   - Performs feature clamping experiments to understand feature roles
-   - Conducts category classification experiments
-   - Analyzes feature importance in different contexts
+The residual error from SAE reconstruction was mapped with another SAE (no contribution) vs a non-linear method (NFM), and showed that the residual reconstruction space contains significant (+3-12% relative reconstruction improvement) non-linear mapping, that, importantly contributes to the accuracy of the neuron network activations.
 
 ## Results
 
-The analysis provides insights into how LLMs process and integrate features:
+Summary: Basically, an NFM contribute 3-12% relative loss reduction on a SAE reconstruction, in accordance with my hypothesis that features may have meaningful non-linear interactions in neuron activation space. 
+I might add later to this section later, listed here for now: (https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
 
-1. **Feature Patterns**
-   - Features show consistent activation patterns across similar contexts
-   - Feature importance varies based on task and context
-   - Features demonstrate both specialized and general-purpose roles
+## Relevance/Related Phenomena:
+Some prior observations that may be explained by 'feature integration'/'feature interactions':
+-Some insight on 'interference' and 'noise'
+-Why polysemantic neurons are so robust (they're doing integration, not just storage)
+-Why SAEs miss some variance (they ignore integration)
+-Possibly why some less intrepretable features (e.g. perhaps High Frequency Latents contain a large set of non-linearly integrated subfeatures?)
+-A more intrepretable space for the observed polysemantic neurons
+-One potential source for the 'dark matter' of computation
+-Insights/approaches into nuanced feature interactions: feature interactions related to safety, bias, alignment, etc
+-Potentially how 'binding' works in neuroscience/artifical neuroscience?
 
-2. **Integration Mechanisms**
-   - Features combine through both linear and non-linear mechanisms
-   - Integration patterns show evidence of hierarchical processing
-   - Feature interactions reveal computational properties
-
-3. **Computational Properties**
-   - Features encode not just static properties but dynamic relationships
-   - Integration patterns suggest compositional processing
-   - The model demonstrates sophisticated feature combination mechanisms
-
-This project contributes to our understanding of how LLMs process and integrate features, revealing both the presence of feature identity and the mechanisms of feature integration in these models.
+## More to do
+listed in the article: "Do LLMs encode feature integration, in addition to feature identity?" as discussed in [Information Space Contains Computations, Not Just Features](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
 
