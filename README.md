@@ -4,7 +4,7 @@ This project investigates whether Large Language Models (LLMs) encode feature in
 
 ## Project Overview
 
-This project analyzes how LLMs process and integrate features through several key components:
+This project analyzes how LLMs process and integrate features through:
 
 1. **Feature Analysis**
    - Extracts and analyzes features from LLM activations using Sparse Autoencoders (SAE)
@@ -20,44 +20,6 @@ This project analyzes how LLMs process and integrate features through several ke
    - Performs feature clamping experiments to understand feature roles
    - Conducts category classification experiments
    - Analyzes feature importance in different contexts
-
-## Key Findings
-
-The analysis reveals several important aspects of feature processing in LLMs:
-
-1. **Feature Identity**
-   - Individual features show specific activation patterns
-   - Features can be mapped to distinct semantic concepts
-   - Feature activation statistics show varying degrees of specificity
-
-2. **Feature Integration**
-   - Features demonstrate both linear and non-linear interactions
-   - Co-activation patterns reveal feature relationships
-   - Feature importance varies across different contexts
-
-3. **Computational Properties**
-   - Features encode not just static properties but also computational relationships
-   - Feature interactions show evidence of compositional processing
-   - The model demonstrates both local and distributed feature representations
-
-## Analysis Methods
-
-The project employs several sophisticated analysis techniques:
-
-1. **Feature Extraction**
-   - Uses Sparse Autoencoders to identify meaningful features
-   - Analyzes feature activation patterns across different contexts
-   - Computes feature statistics and importance metrics
-
-2. **Visualization**
-   - Creates token-level activation visualizations
-   - Generates feature interaction plots
-   - Produces comprehensive analysis summaries
-
-3. **Intervention Studies**
-   - Performs controlled feature clamping experiments
-   - Conducts category classification tests
-   - Analyzes feature behavior under different conditions
 
 ## Results
 
