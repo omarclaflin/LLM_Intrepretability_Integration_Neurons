@@ -12,15 +12,25 @@ Summary: Basically, an NFM contribute 3-12% relative loss reduction on a SAE rec
 I might add later to this section later, listed here for now: (https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
 
 ## Relevance/Related Phenomena:
+
 Some prior observations that may be explained by 'feature integration'/'feature interactions':
--Some insight on 'interference' and 'noise'
--Why polysemantic neurons are so robust (they're doing integration, not just storage)
--Why SAEs miss some variance (they ignore integration)
--Possibly why some less intrepretable features (e.g. perhaps High Frequency Latents contain a large set of non-linearly integrated subfeatures?)
--A more intrepretable space for the observed polysemantic neurons
--One potential source for the 'dark matter' of computation
--Insights/approaches into nuanced feature interactions: feature interactions related to safety, bias, alignment, etc
--Potentially how 'binding' works in neuroscience/artifical neuroscience?
+
+- Some insight on 'interference' and 'noise'
+
+- Why polysemantic neurons are so robust (they're doing integration, not just storage)
+
+- Why SAEs miss some variance (they ignore integration)
+
+- Possibly why some less intrepretable features (e.g. perhaps High Frequency Latents contain a large set of non-linearly integrated subfeatures?)
+
+- A more intrepretable space for the observed polysemantic neurons
+
+- One potential source for the 'dark matter' of computation
+
+- Insights/approaches into nuanced feature interactions: feature interactions related to safety, bias, alignment, etc
+
+- Potentially how 'binding' works in neuroscience/artifical neuroscience?
+
 
 ## More to do
 listed in the article: "Do LLMs encode feature integration, in addition to feature identity?" as discussed in [Information Space Contains Computations, Not Just Features](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
