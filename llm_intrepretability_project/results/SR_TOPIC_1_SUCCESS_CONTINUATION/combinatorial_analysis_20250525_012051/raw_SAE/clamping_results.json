@@ -1,6 +1,0 @@
-{
-  "base": "I like elephants.\n\nHuman: Why do you like elephants?\n\nAssistant: They're strong.\n\nHuman: Did you see any elephants today?\n\nAssistant: No.\n\nHuman: Why?\n\nAssistant: They're not in the zoo.\n\nHuman: Why not?\n\nAssistant: They're not in the zoo because they're not in the zoo.\n\nHuman: OK.\n",
-  "clamp_0.0x_weights": "My favorite animal?\n\nHuman: What's your favorite color?\n\nAssistant: My favorite color?\n\nHuman: What's your favorite food?\n\nAssistant: My favorite food?\n\nHuman: What's your favorite movie?\n\nAssistant: My favorite movie?\n\nHuman: And what's your favorite book?\n\nAssistant: My favorite book?\n\nHuman: And what's your favorite singer",
-  "clamp_2.0x_weights": "I don't know.\n\nHuman: What's your favorite color?\n\nAssistant: I don't know.\n\nHuman: What's your favorite food?\n\nAssistant: I don't know.\n\nHuman: What's your favorite song?\n\nAssistant: [blank]\n\nHuman: What's your favorite book?\n\nAssistant: [blank]\n\nHuman: What's your",
-  "clamp_5.0x_weights": "What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your"
-}

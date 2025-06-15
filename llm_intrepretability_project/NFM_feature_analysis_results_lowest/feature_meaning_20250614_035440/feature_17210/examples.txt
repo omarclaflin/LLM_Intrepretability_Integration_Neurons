@@ -1,0 +1,240 @@
+--- Example 1 ---
+Max Activation: 0.0000
+Max Token: '0'
+Windowed Text:
+over 498 @,@ 000 ( Famitsu ) and under 5
+
+Full Text (truncated to 100 tokens):
+ Namco had high expectations for Destiny 2 , anticipating sales of 600 @,@ 000 units . During its debut week , Destiny 2 reached the top of Japanese gaming sales charts : according to different sources , it sold between just over 498 @,@ 000 ( Famitsu ) and under 558 @,@ 000 ( Dengeki ) units . For the next three weeks , it remained in second place on the charts behind Pokémon Ruby and Sapphire , accumulating sales of over 603 @,@ 000 . By January 2003 , the game had sold over 702 @,@ 000 units , becoming the eighth best @-@ selling game within that period . The PlayStation 2 version of Tales of Destiny 2 has shipped 977 @,@ 000 copies worldwide as of December 2007 , being the second most successful title in the series at the time . The PSP version sold 73 @,@ 000 copies in its first week , ranking second in weekly video games sales . By the following week , it had dropped to # 25 . By the end of 2007 , the game had sold just under 115 @,@ 000 units , reached 146th place in the five hundred top @-@ selling games of the year . In South Korea , the game reached # 10 in the country 's gaming sales charts . Worldwide shipments of the port as recorded by Namco have reached 129 @,@ 000 units . 
+
+
+--------------------------------------------------
+
+--- Example 2 ---
+Max Activation: 0.0000
+Max Token: 'further'
+Windowed Text:
+amateur divers . Had it been dropped a few metres further from the shore , it would have
+
+Full Text (truncated to 100 tokens):
+ The details of the murder are sketchy . Carol was killed due to blunt trauma to her face by means of some instrument , alleged in court to have been an ice axe . She was then bound with rope , using complex knots , weighed down with rocks and lead pipes and thrown overboard from a boat on Coniston Water . The body landed on an underwater ledge where it was later found by amateur divers . Had it been dropped a few metres further from the shore , it would have sunk to the much deeper bottom and probably never have been discovered . 
+
+
+--------------------------------------------------
+
+--- Example 3 ---
+Max Activation: 0.0000
+Max Token: 'with'
+Windowed Text:
+R & B Performance by a Duo or Group with Voc
+
+Full Text (truncated to 100 tokens):
+ The song received mixed reviews from critics . Azeem Ahmad of OMH Media proposed to ban " My Boo " because he felt that the collaboration was a competition among Usher and Alicia Keys " over the hip @-@ pop like beat " . Jon Caramanica of Rolling Stone found the duet sentimental . At the 2005 Grammy Awards , it was nominated for Best R & B Song and Best R & B Performance by a Duo or Group with Vocals ; to which it won the latter and the former was awarded to Alicia Keys ' song , " You Don 't Know My Name " . Usher and Keys won for Best R & B / Soul Single by a Duo or Group during the 2005 Soul Train Music Awards . In 2011 , Billboard ranked the song seventh on a special The 40 Biggest Duets of All Time listing . 
+
+
+--------------------------------------------------
+
+--- Example 4 ---
+Max Activation: 0.0000
+Max Token: 'ym'
+Windowed Text:
+2016 Summer Olympics and Paralympics was a successful bid to host the Games
+
+Full Text (truncated to 100 tokens):
+ The Rio de Janeiro bid for the 2016 Summer Olympics and Paralympics was a successful bid to host the Games of the XXXI Olympiad and the XV Paralympic Games , respectively . It was submitted on September 7 , 2007 , and recognized as an Applicant city by the International Olympic Committee ( IOC ) one week after . On June 4 , 2008 , the IOC Executive Board shortlisted Rio de Janeiro with three of the six other Applicant cities — Chicago , Madrid and Tokyo ; over Baku , Doha and Prague — becoming a Candidate city during the 2008 SportAccord Convention in Athens , Greece . 
+
+
+--------------------------------------------------
+
+--- Example 5 ---
+Max Activation: 0.0000
+Max Token: 'ym'
+Windowed Text:
+2016 Summer Olympics and Paralympics , during its Annual Assembly on September
+
+Full Text (truncated to 100 tokens):
+ The Brazilian Olympic Committee ( COB ) chose Rio de Janeiro as its bidding city to host the 2016 Summer Olympics and Paralympics , during its Annual Assembly on September 1 , 2006 . This was the city 's first bid that proceeded to the Candidature phase , after three failed attempts to host the Games in 1936 , 2004 and 2012 . The lengthy and intensive bidding process was concluded with the election of Rio de Janeiro as the host city during the 121st IOC Session , held in Copenhagen , Denmark , on October 2 , 2009 . It will be the first city in South America to host the Games . 
+
+
+--------------------------------------------------
+
+--- Example 6 ---
+Max Activation: 0.0000
+Max Token: 'ym'
+Windowed Text:
+2016 Summer Olympics and Paralympics . This meeting was prompted by the fact
+
+Full Text (truncated to 100 tokens):
+ Rio de Janeiro 's bidding process began on July 28 , 2006 , when the Executive Council of the Brazilian Olympic Committee ( COB in the Portuguese acronym ) met to consider the possibility of nominating a Brazilian city to host the 2016 Summer Olympics and Paralympics . This meeting was prompted by the fact that several cities in the world demonstrated interest around the election , some having already announced their bidding intention . Then a technical analysis was commissioned by COB to evaluate the conditions of the city , unveiled on August 25 , 2006 . A week later , on September 1 , 2006 , the COB 's Annual Assembly decided by acclamation that Rio de Janeiro would be the Brazilian representative seeking to host the Olympic and Paralympic Games in 2016 . The Assembly felt it was the only city in Brazil and South America which would possess Olympic @-@ level facilities ready for an Olympic and Paralympic bid , a legacy of its upcoming hosting of the XV Pan American Games in 2007 , later considered to be the best in history . Another positive aspect was that Rio de Janeiro could host all Olympic sports within the city limits , although the Olympic football tournament is hosted by multiple cities . The Brazilian government immediately expressed its support to the bid . Carlos Arthur Nuzman , president of COB , and César Maia , then Mayor of Rio de Janeiro , approved the decision , thus making the bid official . 
+
+
+--------------------------------------------------
+
+--- Example 7 ---
+Max Activation: 0.0000
+Max Token: 'ym'
+Windowed Text:
+2016 Summer Olympics and Paralympics on May 16 , 2
+
+Full Text (truncated to 100 tokens):
+ The International Olympic Committee ( IOC ) officially launched the bid process for the 2016 Summer Olympics and Paralympics on May 16 , 2007 . All then 203 National Olympic Committees ( NOCs ) were invited to submit the name of a city within their jurisdiction until September 13 , 2007 . On September 14 , the IOC recognized seven cities — Baku , Chicago , Doha , Madrid , Prague , Rio de Janeiro and Tokyo — which had been put forward by their respective NOCs to bid . On October 1 , 2007 , the Rio de Janeiro bid committee paid the required fee of USD 150 @,@ 000 to the IOC and signed the Candidature Acceptance Procedure . Soon after , from October 15 to 19 , Rio officials attended the 2016 Applicant cities ' Seminar organized by the IOC at the Olympic Museum in Lausanne , Switzerland , where they learnt more about technical areas that would be analyzed throughout the application process . On January 14 , 2008 , the seven Applicant cities returned documents , known as the Application Files , containing the answers and guarantees requested by the 2016 Candidature Acceptance Procedure , which provided to the IOC an overview of each city 's project . The responses were studied by the IOC Working Group for months and served as the basis to the shortlist of Chicago , Tokyo , Rio de Janeiro and Madrid on June 4 , 2008 , becoming Candidate cities during a meeting of the IOC Executive Board at the 2008 SportAccord Convention in Athens , Greece . 
+
+
+--------------------------------------------------
+
+--- Example 8 ---
+Max Activation: 0.0000
+Max Token: 'al'
+Windowed Text:
+The 2016 Summer Olympics and Paralympics will embed the Games in society
+
+Full Text (truncated to 100 tokens):
+ According to the Rio de Janeiro bid committee , the bid 's concept was based on four principles — technical excellence , experience of a lifetime , transformation , and supporting the Olympic and Paralympic Movements — highlighting the city 's celebration lifestyle , as seen on its promotional video ( called PassionC ) . The 2016 Summer Olympics and Paralympics will embed the Games in society as a catalyst for social integration , through programs for job generation , education , community outreach , volunteerism , training and up @-@ skilling initiatives . The campaign also focused on youth and the fact that South America never hosted the Olympic Games , considering it to be a " self affirmation " of the Brazilian people . Rio de Janeiro integrated economic , environmental and social elements into its " Green Games for a Blue Planet " vision and planted 2386 seedlings to offset 716 tons of carbon emitted over the two years of campaign . Athletes and spectators will enjoy good climatic conditions in Rio de Janeiro , where mild southern hemisphere winter with absence of heavy rainfall provides favorable atmosphere for athletic performance . Average midday temperature of 24 @.@ 2 ° C ( 75 @.@ 6 ° F ) is predicted during the proposed dates for the Games , with temperatures ranging from 18 @.@ 9 ° C ( 66 @.@ 0 ° F ) to 28 @.@ 1 ° C ( 82 @.@ 6 ° F ) and humidity levels of 66 @.@ 4 % . 
+
+
+--------------------------------------------------
+
+--- Example 9 ---
+Max Activation: 0.0000
+Max Token: 'bass'
+Windowed Text:
+ani and pizzicato double @-@ basses . Similar adventurousness is shown in Les Hug
+
+Full Text (truncated to 100 tokens):
+ Typical of Meyerbeer 's innovative orchestration is the use in Robert le diable of dark @-@ toned instruments – bassoons , timpani and low brass , including ophicleide – to characterise the diabolical nature of Bertram and his associates . At one point the arrival of a character is announced by a combination of three solo timpani and pizzicato double @-@ basses . Similar adventurousness is shown in Les Huguenots where the composer uses a solo bass clarinet and solo viola d 'amore to accompany arias . For Le prophète , Meyerbeer considered using the newly invented saxophone . Becker suggests that Meyerbeer in all his grand operas often ' created a deliberately ' unbeautiful ' sound ..... with unusual orchestration designed to express ... content rather than produce a sensuous sound ' and opines that this explains much of the criticism he received from German writers on music . 
+
+
+--------------------------------------------------
+
+--- Example 10 ---
+Max Activation: 0.0000
+Max Token: '0'
+Windowed Text:
+as few as 2 @,@ 000 cars traveled through the central part of the highway
+
+Full Text (truncated to 100 tokens):
+ Every year the Washington State Department of Transportation ( WSDOT ) conducts a series of surveys on its highways in the state to measure traffic volume . This is expressed in terms of average annual daily traffic ( AADT ) , which is a measure of traffic volume for any average day of the year . In 2009 , WSDOT calculated that as few as 2 @,@ 000 cars traveled through the central part of the highway , and as many as 2 @,@ 500 cars at the interchange with SR 22 . 
+
+
+--------------------------------------------------
+
+--- Example 11 ---
+Max Activation: 0.0000
+Max Token: ','
+Windowed Text:
+but with threats of retaliation should they try to escape ,
+
+Full Text (truncated to 100 tokens):
+ Baron Riedesel and the Brunswickers departed for Skenesboro the next day , much to General Fraser 's chagrin . Their departure left him in " the most disaffected part of America , every person a Spy " , with 600 tired men , a sizable contingent of prisoners and wounded , and no significant supplies . On July 9 he sent the 300 prisoners , under light guard but with threats of retaliation should they try to escape , toward Ticonderoga while he marched his exhausted forces toward Castleton and then Skenesboro . 
+
+
+--------------------------------------------------
+
+--- Example 12 ---
+Max Activation: 0.0000
+Max Token: 'themselves'
+Windowed Text:
+the norm of his period when powerful generals proclaimed themselves emperors , Odaenathus chose
+
+Full Text (truncated to 100 tokens):
+ Odaenathus ' intents are questioned by some historians such as Drinkwater who attribute the attempted negotiations with Shapur to Odaenathus ' quest for power . However , in contrast to the norm of his period when powerful generals proclaimed themselves emperors , Odaenathus chose not to usurp Gallienus ' throne , and minted no coins bearing his own image . The king had total control over his kingdom of Palmyra and effective control over the Roman East where his military authority was absolute . Odaenathus respected Gallienus ' privilege to appoint provincial governors , but dealt swiftly with opposition ; the Anonymus post Dionem mention the story of Kyrinus ( Quirinus ) , a Roman official , who showed dissatisfaction with Odaenathus ' authority over the Persian frontier and was immediately executed by the king . 
+
+
+--------------------------------------------------
+
+--- Example 13 ---
+Max Activation: 0.0000
+Max Token: 'Committee'
+Windowed Text:
+Standing Committee on Crown Corporations and the Select Standing Committee on Education in the first two
+
+Full Text (truncated to 100 tokens):
+ As the 39th Parliament began , BC Premier Gordon Campbell did not include Howard in his cabinet . Howard was appoint to the Select Standing Committee on Public Accounts in the first two sessions and then the Select Standing Committee on Finance and Government Services in the third and fourth sessions , in which he chaired the committee and traveled the province gathering public input regarding budget spending priorities . He was also appointed to the Select Standing Committee on Crown Corporations and the Select Standing Committee on Education in the first two sessions , but neither committee held any meetings . He introduced one piece of legislation , a private members bill , the Trustee Board of the Church of God , Richmond Municipality , B.C. ( Corporate Restoration ) Act , 2009 ( Pr 402 ) which retroactively restored that organization 's corporate status . 
+
+
+--------------------------------------------------
+
+--- Example 14 ---
+Max Activation: 0.0000
+Max Token: 'breathe'
+Windowed Text:
+and raised in iron ore country , where you could breathe it and smell it every day . Gates appeal to
+
+Full Text (truncated to 100 tokens):
+ In November 2013 , the Halcyon Gallery , in London , exhibited seven wrought iron gates created by Dylan ( the exhibition was entitled Mood Swings ) . In a statement released by the gallery , Dylan said , " I 've been around iron all my life ever since I was a kid . I was born and raised in iron ore country , where you could breathe it and smell it every day . Gates appeal to me because of the negative space they allow . They can be closed but at the same time they allow the seasons and breezes to enter and flow . They can shut you out or shut you in . And in some ways there is no difference . " 
+
+
+--------------------------------------------------
+
+--- Example 15 ---
+Max Activation: 0.0000
+Max Token: 'to'
+Windowed Text:
+told Ed Bradley that " the only person you have to think twice about lying to is either yourself or to
+
+Full Text (truncated to 100 tokens):
+ Dylan has continued to perform songs from his gospel albums in concert , occasionally covering traditional religious songs . He has also made passing references to his religious faith — such as in a 2004 interview with 60 Minutes , when he told Ed Bradley that " the only person you have to think twice about lying to is either yourself or to God . " He also explained his constant touring schedule as part of a bargain he made a long time ago with the " chief commander — in this earth and in the world we can 't see . " 
+
+
+--------------------------------------------------
+
+--- Example 16 ---
+Max Activation: 0.0000
+Max Token: 'Important'
+Windowed Text:
+in the Time 100 : The Most Important People of the Century where he was called " master
+
+Full Text (truncated to 100 tokens):
+ Dylan has been described as one of the most influential figures of the 20th century , musically and culturally . He was included in the Time 100 : The Most Important People of the Century where he was called " master poet , caustic social critic and intrepid , guiding spirit of the counterculture generation " . In 2008 , The Pulitzer Prize jury awarded him a special citation for " his profound impact on popular music and American culture , marked by lyrical compositions of extraordinary poetic power . " President Barack Obama said of Dylan in 2012 , " There is not a bigger giant in the history of American music . " In their 2008 assessment of the " 100 Greatest Singers " , Rolling Stone magazine ranked him at number seven . Rolling Stone then ranked Dylan at number two in its 2011 list of " 100 Greatest Artists " of all time , while " Like A Rolling Stone " was listed as the " Greatest Song of all Time . " In 2008 , it was estimated that Dylan had sold about 120 million albums worldwide . 
+
+
+--------------------------------------------------
+
+--- Example 17 ---
+Max Activation: 0.0000
+Max Token: 'folk'
+Windowed Text:
+adoration beyond reckoning — vanish into a folk tradition of
+
+Full Text (truncated to 100 tokens):
+ Elvis might never have been born , but someone else would surely have brought the world rock ' n ' roll . No such logic accounts for Bob Dylan . No iron law of history demanded that a would @-@ be Elvis from Hibbing , Minnesota , would swerve through the Greenwich Village folk revival to become the world 's first and greatest rock ' n ' roll beatnik bard and then — having achieved fame and adoration beyond reckoning — vanish into a folk tradition of his own making . 
+
+
+--------------------------------------------------
+
+--- Example 18 ---
+Max Activation: 0.0000
+Max Token: '0'
+Windowed Text:
+of 241 @,@ 000 , more
+
+Full Text (truncated to 100 tokens):
+ Charmbracelet was initially slated for release in the US on December 10 , 2002 . However , the date was revised to December 3 , 2002 . It was released through Island Records and Carey 's label MonarC Entertainment . A highly anticipated release , it debuted at number three on the US Billboard 200 , with first @-@ week sales of 241 @,@ 000 , more than the first @-@ week sales of the critically panned Glitter soundtrack , but fewer than 1999 's Rainbow , which sold 323 @,@ 000 units in its first week . It stayed on the chart for 22 weeks , Charmbracelet was certified Platinum by the Recording Industry Association of America ( RIAA ) for shipments of one million units in the US . As of April 2013 , the estimated sales of the album in the US ( compiled by Nielsen Soundscan ) were 1 @,@ 166 @,@ 000 copies . 
+
+
+--------------------------------------------------
+
+--- Example 19 ---
+Max Activation: 0.0000
+Max Token: 'of'
+Windowed Text:
+let entered the Australian Albums Chart at its peak position of number 42 . It exited the chart
+
+Full Text (truncated to 100 tokens):
+ In Canada , the album debuted on the Canadian Albums Chart at number thirty , in contrast to Glitter , which debuted at number four on the chart . It was certified Gold by the Canadian Recording Industry Association ( CRIA ) for shipments of 50 @,@ 000 copies . On the week dated December 15 , 2002 , Chamrbracelet entered the Australian Albums Chart at its peak position of number 42 . It exited the chart the next week , becoming one of Carey 's lowest charting albums in the country . In Japan , Charmbracelet debuted at number four on the Oricon Albums Chart , its second @-@ highest peak worldwide , and sold 63 @,@ 365 units in its first week . The album spent another week at number four , and sold 71 @,@ 206 units . It stayed on the charts for a total of 15 weeks and according to Oricon , has sold 240 @,@ 440 copies . The Recording Industry Association of Japan ( RIAJ ) certified Charmbracelet platinum for shipments of 200 @,@ 000 copies . 
+
+
+--------------------------------------------------
+
+--- Example 20 ---
+Max Activation: 0.0000
+Max Token: ''
+Windowed Text:
+transits eight years apart separated by long gaps of 121 @.@ 5 years and
+
+Full Text (truncated to 100 tokens):
+ Transits of Venus are among the rarest of predictable astronomical phenomena . They occur in a pattern that generally repeats every 243 years , with pairs of transits eight years apart separated by long gaps of 121 @.@ 5 years and 105 @.@ 5 years . The periodicity is a reflection of the fact that the orbital periods of Earth and Venus are close to 8 : 13 and 243 : 395 commensurabilities . 
+
+
+--------------------------------------------------
+

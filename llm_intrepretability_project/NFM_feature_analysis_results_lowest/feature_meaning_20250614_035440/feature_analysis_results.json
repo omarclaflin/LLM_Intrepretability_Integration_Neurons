@@ -1,0 +1,149 @@
+[
+  {
+    "feature_idx": 17210,
+    "statistics": {
+      "mean_activation": 0.07127112150192261,
+      "max_activation": 0.7963795065879822,
+      "median_activation": 0.06775039434432983,
+      "percent_active_non_special_tokens": 99.9575073438395,
+      "mean_text_active_pct_non_special_tokens": 59.07581291910703,
+      "feature_idx": 17210
+    },
+    "examples": [
+      {
+        "full_text": " Namco had high expectations for Destiny 2 , anticipating sales of 600 @,@ 000 units . During its debut week , Destiny 2 reached the top of Japanese gaming sales charts : according to different sources , it sold between just over 498 @,@ 000 ( Famitsu ) and under 558 @,@ 000 ( Dengeki ) units . For the next three weeks , it remained in second place on the charts behind Pok\u00e9mon Ruby and Sapphire , accumulating sales of over 603 @,@ 000 . By January 2003 , the game had sold over 702 @,@ 000 units , becoming the eighth best @-@ selling game within that period . The PlayStation 2 version of Tales of Destiny 2 has shipped 977 @,@ 000 copies worldwide as of December 2007 , being the second most successful title in the series at the time . The PSP version sold 73 @,@ 000 copies in its first week , ranking second in weekly video games sales . By the following week , it had dropped to # 25 . By the end of 2007 , the game had sold just under 115 @,@ 000 units , reached 146th place in the five hundred top @-@ selling games of the year . In South Korea , the game reached # 10 in the country 's gaming sales charts . Worldwide shipments of the port as recorded by Namco have reached 129 @,@ 000 units . \n",
+        "windowed_text": "over 498 @,@ 000 ( Famitsu ) and under 5",
+        "max_activation": 0.0,
+        "max_token": "0"
+      },
+      {
+        "full_text": " The details of the murder are sketchy . Carol was killed due to blunt trauma to her face by means of some instrument , alleged in court to have been an ice axe . She was then bound with rope , using complex knots , weighed down with rocks and lead pipes and thrown overboard from a boat on Coniston Water . The body landed on an underwater ledge where it was later found by amateur divers . Had it been dropped a few metres further from the shore , it would have sunk to the much deeper bottom and probably never have been discovered . \n",
+        "windowed_text": "amateur divers . Had it been dropped a few metres further from the shore , it would have",
+        "max_activation": 0.0,
+        "max_token": "further"
+      },
+      {
+        "full_text": " The song received mixed reviews from critics . Azeem Ahmad of OMH Media proposed to ban \" My Boo \" because he felt that the collaboration was a competition among Usher and Alicia Keys \" over the hip @-@ pop like beat \" . Jon Caramanica of Rolling Stone found the duet sentimental . At the 2005 Grammy Awards , it was nominated for Best R & B Song and Best R & B Performance by a Duo or Group with Vocals ; to which it won the latter and the former was awarded to Alicia Keys ' song , \" You Don 't Know My Name \" . Usher and Keys won for Best R & B / Soul Single by a Duo or Group during the 2005 Soul Train Music Awards . In 2011 , Billboard ranked the song seventh on a special The 40 Biggest Duets of All Time listing . \n",
+        "windowed_text": "R & B Performance by a Duo or Group with Voc",
+        "max_activation": 0.0,
+        "max_token": "with"
+      },
+      {
+        "full_text": " The Rio de Janeiro bid for the 2016 Summer Olympics and Paralympics was a successful bid to host the Games of the XXXI Olympiad and the XV Paralympic Games , respectively . It was submitted on September 7 , 2007 , and recognized as an Applicant city by the International Olympic Committee ( IOC ) one week after . On June 4 , 2008 , the IOC Executive Board shortlisted Rio de Janeiro with three of the six other Applicant cities \u2014 Chicago , Madrid and Tokyo ; over Baku , Doha and Prague \u2014 becoming a Candidate city during the 2008 SportAccord Convention in Athens , Greece . \n",
+        "windowed_text": "2016 Summer Olympics and Paralympics was a successful bid to host the Games",
+        "max_activation": 0.0,
+        "max_token": "ym"
+      },
+      {
+        "full_text": " The Brazilian Olympic Committee ( COB ) chose Rio de Janeiro as its bidding city to host the 2016 Summer Olympics and Paralympics , during its Annual Assembly on September 1 , 2006 . This was the city 's first bid that proceeded to the Candidature phase , after three failed attempts to host the Games in 1936 , 2004 and 2012 . The lengthy and intensive bidding process was concluded with the election of Rio de Janeiro as the host city during the 121st IOC Session , held in Copenhagen , Denmark , on October 2 , 2009 . It will be the first city in South America to host the Games . \n",
+        "windowed_text": "2016 Summer Olympics and Paralympics , during its Annual Assembly on September",
+        "max_activation": 0.0,
+        "max_token": "ym"
+      },
+      {
+        "full_text": " Rio de Janeiro 's bidding process began on July 28 , 2006 , when the Executive Council of the Brazilian Olympic Committee ( COB in the Portuguese acronym ) met to consider the possibility of nominating a Brazilian city to host the 2016 Summer Olympics and Paralympics . This meeting was prompted by the fact that several cities in the world demonstrated interest around the election , some having already announced their bidding intention . Then a technical analysis was commissioned by COB to evaluate the conditions of the city , unveiled on August 25 , 2006 . A week later , on September 1 , 2006 , the COB 's Annual Assembly decided by acclamation that Rio de Janeiro would be the Brazilian representative seeking to host the Olympic and Paralympic Games in 2016 . The Assembly felt it was the only city in Brazil and South America which would possess Olympic @-@ level facilities ready for an Olympic and Paralympic bid , a legacy of its upcoming hosting of the XV Pan American Games in 2007 , later considered to be the best in history . Another positive aspect was that Rio de Janeiro could host all Olympic sports within the city limits , although the Olympic football tournament is hosted by multiple cities . The Brazilian government immediately expressed its support to the bid . Carlos Arthur Nuzman , president of COB , and C\u00e9sar Maia , then Mayor of Rio de Janeiro , approved the decision , thus making the bid official . \n",
+        "windowed_text": "2016 Summer Olympics and Paralympics . This meeting was prompted by the fact",
+        "max_activation": 0.0,
+        "max_token": "ym"
+      },
+      {
+        "full_text": " The International Olympic Committee ( IOC ) officially launched the bid process for the 2016 Summer Olympics and Paralympics on May 16 , 2007 . All then 203 National Olympic Committees ( NOCs ) were invited to submit the name of a city within their jurisdiction until September 13 , 2007 . On September 14 , the IOC recognized seven cities \u2014 Baku , Chicago , Doha , Madrid , Prague , Rio de Janeiro and Tokyo \u2014 which had been put forward by their respective NOCs to bid . On October 1 , 2007 , the Rio de Janeiro bid committee paid the required fee of USD 150 @,@ 000 to the IOC and signed the Candidature Acceptance Procedure . Soon after , from October 15 to 19 , Rio officials attended the 2016 Applicant cities ' Seminar organized by the IOC at the Olympic Museum in Lausanne , Switzerland , where they learnt more about technical areas that would be analyzed throughout the application process . On January 14 , 2008 , the seven Applicant cities returned documents , known as the Application Files , containing the answers and guarantees requested by the 2016 Candidature Acceptance Procedure , which provided to the IOC an overview of each city 's project . The responses were studied by the IOC Working Group for months and served as the basis to the shortlist of Chicago , Tokyo , Rio de Janeiro and Madrid on June 4 , 2008 , becoming Candidate cities during a meeting of the IOC Executive Board at the 2008 SportAccord Convention in Athens , Greece . \n",
+        "windowed_text": "2016 Summer Olympics and Paralympics on May 16 , 2",
+        "max_activation": 0.0,
+        "max_token": "ym"
+      },
+      {
+        "full_text": " According to the Rio de Janeiro bid committee , the bid 's concept was based on four principles \u2014 technical excellence , experience of a lifetime , transformation , and supporting the Olympic and Paralympic Movements \u2014 highlighting the city 's celebration lifestyle , as seen on its promotional video ( called PassionC ) . The 2016 Summer Olympics and Paralympics will embed the Games in society as a catalyst for social integration , through programs for job generation , education , community outreach , volunteerism , training and up @-@ skilling initiatives . The campaign also focused on youth and the fact that South America never hosted the Olympic Games , considering it to be a \" self affirmation \" of the Brazilian people . Rio de Janeiro integrated economic , environmental and social elements into its \" Green Games for a Blue Planet \" vision and planted 2386 seedlings to offset 716 tons of carbon emitted over the two years of campaign . Athletes and spectators will enjoy good climatic conditions in Rio de Janeiro , where mild southern hemisphere winter with absence of heavy rainfall provides favorable atmosphere for athletic performance . Average midday temperature of 24 @.@ 2 \u00b0 C ( 75 @.@ 6 \u00b0 F ) is predicted during the proposed dates for the Games , with temperatures ranging from 18 @.@ 9 \u00b0 C ( 66 @.@ 0 \u00b0 F ) to 28 @.@ 1 \u00b0 C ( 82 @.@ 6 \u00b0 F ) and humidity levels of 66 @.@ 4 % . \n",
+        "windowed_text": "The 2016 Summer Olympics and Paralympics will embed the Games in society",
+        "max_activation": 0.0,
+        "max_token": "al"
+      },
+      {
+        "full_text": " Typical of Meyerbeer 's innovative orchestration is the use in Robert le diable of dark @-@ toned instruments \u2013 bassoons , timpani and low brass , including ophicleide \u2013 to characterise the diabolical nature of Bertram and his associates . At one point the arrival of a character is announced by a combination of three solo timpani and pizzicato double @-@ basses . Similar adventurousness is shown in Les Huguenots where the composer uses a solo bass clarinet and solo viola d 'amore to accompany arias . For Le proph\u00e8te , Meyerbeer considered using the newly invented saxophone . Becker suggests that Meyerbeer in all his grand operas often ' created a deliberately ' unbeautiful ' sound ..... with unusual orchestration designed to express ... content rather than produce a sensuous sound ' and opines that this explains much of the criticism he received from German writers on music . \n",
+        "windowed_text": "ani and pizzicato double @-@ basses . Similar adventurousness is shown in Les Hug",
+        "max_activation": 0.0,
+        "max_token": "bass"
+      },
+      {
+        "full_text": " Every year the Washington State Department of Transportation ( WSDOT ) conducts a series of surveys on its highways in the state to measure traffic volume . This is expressed in terms of average annual daily traffic ( AADT ) , which is a measure of traffic volume for any average day of the year . In 2009 , WSDOT calculated that as few as 2 @,@ 000 cars traveled through the central part of the highway , and as many as 2 @,@ 500 cars at the interchange with SR 22 . \n",
+        "windowed_text": "as few as 2 @,@ 000 cars traveled through the central part of the highway",
+        "max_activation": 0.0,
+        "max_token": "0"
+      },
+      {
+        "full_text": " Baron Riedesel and the Brunswickers departed for Skenesboro the next day , much to General Fraser 's chagrin . Their departure left him in \" the most disaffected part of America , every person a Spy \" , with 600 tired men , a sizable contingent of prisoners and wounded , and no significant supplies . On July 9 he sent the 300 prisoners , under light guard but with threats of retaliation should they try to escape , toward Ticonderoga while he marched his exhausted forces toward Castleton and then Skenesboro . \n",
+        "windowed_text": "but with threats of retaliation should they try to escape ,",
+        "max_activation": 0.0,
+        "max_token": ","
+      },
+      {
+        "full_text": " Odaenathus ' intents are questioned by some historians such as Drinkwater who attribute the attempted negotiations with Shapur to Odaenathus ' quest for power . However , in contrast to the norm of his period when powerful generals proclaimed themselves emperors , Odaenathus chose not to usurp Gallienus ' throne , and minted no coins bearing his own image . The king had total control over his kingdom of Palmyra and effective control over the Roman East where his military authority was absolute . Odaenathus respected Gallienus ' privilege to appoint provincial governors , but dealt swiftly with opposition ; the Anonymus post Dionem mention the story of Kyrinus ( Quirinus ) , a Roman official , who showed dissatisfaction with Odaenathus ' authority over the Persian frontier and was immediately executed by the king . \n",
+        "windowed_text": "the norm of his period when powerful generals proclaimed themselves emperors , Odaenathus chose",
+        "max_activation": 0.0,
+        "max_token": "themselves"
+      },
+      {
+        "full_text": " As the 39th Parliament began , BC Premier Gordon Campbell did not include Howard in his cabinet . Howard was appoint to the Select Standing Committee on Public Accounts in the first two sessions and then the Select Standing Committee on Finance and Government Services in the third and fourth sessions , in which he chaired the committee and traveled the province gathering public input regarding budget spending priorities . He was also appointed to the Select Standing Committee on Crown Corporations and the Select Standing Committee on Education in the first two sessions , but neither committee held any meetings . He introduced one piece of legislation , a private members bill , the Trustee Board of the Church of God , Richmond Municipality , B.C. ( Corporate Restoration ) Act , 2009 ( Pr 402 ) which retroactively restored that organization 's corporate status . \n",
+        "windowed_text": "Standing Committee on Crown Corporations and the Select Standing Committee on Education in the first two",
+        "max_activation": 0.0,
+        "max_token": "Committee"
+      },
+      {
+        "full_text": " In November 2013 , the Halcyon Gallery , in London , exhibited seven wrought iron gates created by Dylan ( the exhibition was entitled Mood Swings ) . In a statement released by the gallery , Dylan said , \" I 've been around iron all my life ever since I was a kid . I was born and raised in iron ore country , where you could breathe it and smell it every day . Gates appeal to me because of the negative space they allow . They can be closed but at the same time they allow the seasons and breezes to enter and flow . They can shut you out or shut you in . And in some ways there is no difference . \" \n",
+        "windowed_text": "and raised in iron ore country , where you could breathe it and smell it every day . Gates appeal to",
+        "max_activation": 0.0,
+        "max_token": "breathe"
+      },
+      {
+        "full_text": " Dylan has continued to perform songs from his gospel albums in concert , occasionally covering traditional religious songs . He has also made passing references to his religious faith \u2014 such as in a 2004 interview with 60 Minutes , when he told Ed Bradley that \" the only person you have to think twice about lying to is either yourself or to God . \" He also explained his constant touring schedule as part of a bargain he made a long time ago with the \" chief commander \u2014 in this earth and in the world we can 't see . \" \n",
+        "windowed_text": "told Ed Bradley that \" the only person you have to think twice about lying to is either yourself or to",
+        "max_activation": 0.0,
+        "max_token": "to"
+      },
+      {
+        "full_text": " Dylan has been described as one of the most influential figures of the 20th century , musically and culturally . He was included in the Time 100 : The Most Important People of the Century where he was called \" master poet , caustic social critic and intrepid , guiding spirit of the counterculture generation \" . In 2008 , The Pulitzer Prize jury awarded him a special citation for \" his profound impact on popular music and American culture , marked by lyrical compositions of extraordinary poetic power . \" President Barack Obama said of Dylan in 2012 , \" There is not a bigger giant in the history of American music . \" In their 2008 assessment of the \" 100 Greatest Singers \" , Rolling Stone magazine ranked him at number seven . Rolling Stone then ranked Dylan at number two in its 2011 list of \" 100 Greatest Artists \" of all time , while \" Like A Rolling Stone \" was listed as the \" Greatest Song of all Time . \" In 2008 , it was estimated that Dylan had sold about 120 million albums worldwide . \n",
+        "windowed_text": "in the Time 100 : The Most Important People of the Century where he was called \" master",
+        "max_activation": 0.0,
+        "max_token": "Important"
+      },
+      {
+        "full_text": " Elvis might never have been born , but someone else would surely have brought the world rock ' n ' roll . No such logic accounts for Bob Dylan . No iron law of history demanded that a would @-@ be Elvis from Hibbing , Minnesota , would swerve through the Greenwich Village folk revival to become the world 's first and greatest rock ' n ' roll beatnik bard and then \u2014 having achieved fame and adoration beyond reckoning \u2014 vanish into a folk tradition of his own making . \n",
+        "windowed_text": "adoration beyond reckoning \u2014 vanish into a folk tradition of",
+        "max_activation": 0.0,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " Charmbracelet was initially slated for release in the US on December 10 , 2002 . However , the date was revised to December 3 , 2002 . It was released through Island Records and Carey 's label MonarC Entertainment . A highly anticipated release , it debuted at number three on the US Billboard 200 , with first @-@ week sales of 241 @,@ 000 , more than the first @-@ week sales of the critically panned Glitter soundtrack , but fewer than 1999 's Rainbow , which sold 323 @,@ 000 units in its first week . It stayed on the chart for 22 weeks , Charmbracelet was certified Platinum by the Recording Industry Association of America ( RIAA ) for shipments of one million units in the US . As of April 2013 , the estimated sales of the album in the US ( compiled by Nielsen Soundscan ) were 1 @,@ 166 @,@ 000 copies . \n",
+        "windowed_text": "of 241 @,@ 000 , more",
+        "max_activation": 0.0,
+        "max_token": "0"
+      },
+      {
+        "full_text": " In Canada , the album debuted on the Canadian Albums Chart at number thirty , in contrast to Glitter , which debuted at number four on the chart . It was certified Gold by the Canadian Recording Industry Association ( CRIA ) for shipments of 50 @,@ 000 copies . On the week dated December 15 , 2002 , Chamrbracelet entered the Australian Albums Chart at its peak position of number 42 . It exited the chart the next week , becoming one of Carey 's lowest charting albums in the country . In Japan , Charmbracelet debuted at number four on the Oricon Albums Chart , its second @-@ highest peak worldwide , and sold 63 @,@ 365 units in its first week . The album spent another week at number four , and sold 71 @,@ 206 units . It stayed on the charts for a total of 15 weeks and according to Oricon , has sold 240 @,@ 440 copies . The Recording Industry Association of Japan ( RIAJ ) certified Charmbracelet platinum for shipments of 200 @,@ 000 copies . \n",
+        "windowed_text": "let entered the Australian Albums Chart at its peak position of number 42 . It exited the chart",
+        "max_activation": 0.0,
+        "max_token": "of"
+      },
+      {
+        "full_text": " Transits of Venus are among the rarest of predictable astronomical phenomena . They occur in a pattern that generally repeats every 243 years , with pairs of transits eight years apart separated by long gaps of 121 @.@ 5 years and 105 @.@ 5 years . The periodicity is a reflection of the fact that the orbital periods of Earth and Venus are close to 8 : 13 and 243 : 395 commensurabilities . \n",
+        "windowed_text": "transits eight years apart separated by long gaps of 121 @.@ 5 years and",
+        "max_activation": 0.0,
+        "max_token": ""
+      }
+    ],
+    "example_imgs": [
+      "feature_17210_activation_1749899032.png",
+      "feature_17210_activation_1749899032.png",
+      "feature_17210_activation_1749899032.png",
+      "feature_17210_activation_1749899032.png",
+      "feature_17210_activation_1749899032.png"
+    ],
+    "pattern": "Numbers",
+    "clamp_results": {
+      "base": "My favorite animal is the dog.\n\nHuman: What's your favorite dog?\n\nAssistant: The golden retriever.\n\nHuman: What's your favorite golden retriever?\n\nAssistant: This is a golden retriever.\n\nHuman: What's this dog's name?\n\nAssistant: This is a golden retriever.\n\nHuman: What's this dog's name?\n\nAssistant: This is a gold-\n\nHuman: Oh, I get it.\n\n10\n\nHuman: What's your favorite book?\n\nAssistant: My favorite book is the Iliad.\n\nHuman: What's your favorite book in the Iliad?\n\nAssistant: The Iliad.\n\nHuman: What's the Iliad?\n\nAssistant: It's the story of the Trojan war.\n\nHuman: What's the Trojan war?\n\nAssistant: It was fought 3000 years ago.\n\nHuman: What's the Trojan war?\n\nAssistant: It was fought 3000 years ago.\n\nHuman: So it's a story about the Trojan war?\n\nAssistant: Yes.\n\nHuman: So it's a story about a war",
+      "clamp_0.0000": "What's my favorite animal?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispering] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [whispers] Sheep?\n\nHuman: [whispers] Sheep.\n\nThe Assistant: [",
+      "clamp_1.5928": "The giraffe.\n\nHuman: Why?\n\nAssistant: Because it has a long neck.\n\nHuman: What's your favorite color?\n\nAssistant: The blue.\n\nHuman: Why?\n\nAssistant: Because it's the king of the animals and it doesn't look like any other animal.\n\nHuman: What type of bird is that?\n\nAssistant: It's a sparrow.\n\nHuman: Why?\n\nAssistant: Because it's a small bird that has a long beak.\n\nHuman: What type of plant is that?\n\nAssistant: It's an ivy.\n\nHuman: Why?\n\nAssistant: Because it's a small plant that has a long root.\n\nHuman: What type of animal is that?\n\nAssistant: It's a dog.\n\nHuman: Why?\n\nAssistant: Because it's the king of the animals and it doesn't look like any other animal.\n\nHuman: What type of fish is that?\n\nAssistant: It's a salmon.\n\nHuman: Why?\n\nAssistant: Because it's a small fish that has a long tail.\n\nHuman: What type of tree is that?\n\nAssistant: It's an oak",
+      "clamp_3.9819": "What's the name of the animal?\n\nHuman: The monkey.\n\nAssistant: Monkey?\n\nHuman: The monkey.\n\nAssistant: Monkey?\n\nHuman: The monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\nAssistant: Monkey?\n\nHuman: Monkey.\n\n"
+    }
+  }
+]

@@ -1,6 +1,0 @@
-{
-  "base": "A horse.\n\nHuman: Do horses count as animals?\n\nAssistant: No, humans are animals.\n\nHuman: What's your favorite animal?\n\nAssistant: A cow.\n\nHuman: Do cows count as animals?\n\nAssistant: No.\n\nHuman: What's your favorite animal?\n\nAssistant: A dog.\n\nHuman: Do dogs count as animals?\n\nAssistant: Yes",
-  "clamp_0.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'",
-  "clamp_2.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'",
-  "clamp_5.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'"
-}

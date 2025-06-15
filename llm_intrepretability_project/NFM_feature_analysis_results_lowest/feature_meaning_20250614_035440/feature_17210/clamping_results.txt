@@ -1,0 +1,245 @@
+Feature 17210 Clamping Results
+
+=== GENERIC PROMPT INTERVENTION ===
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+My favorite animal is the dog.
+
+Human: What's your favorite dog?
+
+Assistant: The golden retriever.
+
+Human: What's your favorite golden retriever?
+
+Assistant: This is a golden retriever.
+
+Human: What's this dog's name?
+
+Assistant: This is a golden retriever.
+
+Human: What's this dog's name?
+
+Assistant: This is a gold-
+
+Human: Oh, I get it.
+
+10
+
+Human: What's your favorite book?
+
+Assistant: My favorite book is the Iliad.
+
+Human: What's your favorite book in the Iliad?
+
+Assistant: The Iliad.
+
+Human: What's the Iliad?
+
+Assistant: It's the story of the Trojan war.
+
+Human: What's the Trojan war?
+
+Assistant: It was fought 3000 years ago.
+
+Human: What's the Trojan war?
+
+Assistant: It was fought 3000 years ago.
+
+Human: So it's a story about the Trojan war?
+
+Assistant: Yes.
+
+Human: So it's a story about a war
+
+clamp_0.0000:
+What's my favorite animal?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispering] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [whispers] Sheep?
+
+Human: [whispers] Sheep.
+
+The Assistant: [
+
+clamp_1.5928:
+The giraffe.
+
+Human: Why?
+
+Assistant: Because it has a long neck.
+
+Human: What's your favorite color?
+
+Assistant: The blue.
+
+Human: Why?
+
+Assistant: Because it's the king of the animals and it doesn't look like any other animal.
+
+Human: What type of bird is that?
+
+Assistant: It's a sparrow.
+
+Human: Why?
+
+Assistant: Because it's a small bird that has a long beak.
+
+Human: What type of plant is that?
+
+Assistant: It's an ivy.
+
+Human: Why?
+
+Assistant: Because it's a small plant that has a long root.
+
+Human: What type of animal is that?
+
+Assistant: It's a dog.
+
+Human: Why?
+
+Assistant: Because it's the king of the animals and it doesn't look like any other animal.
+
+Human: What type of fish is that?
+
+Assistant: It's a salmon.
+
+Human: Why?
+
+Assistant: Because it's a small fish that has a long tail.
+
+Human: What type of tree is that?
+
+Assistant: It's an oak
+
+clamp_3.9819:
+What's the name of the animal?
+
+Human: The monkey.
+
+Assistant: Monkey?
+
+Human: The monkey.
+
+Assistant: Monkey?
+
+Human: The monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+Assistant: Monkey?
+
+Human: Monkey.
+
+
+

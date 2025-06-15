@@ -1,0 +1,149 @@
+[
+  {
+    "feature_idx": 32806,
+    "statistics": {
+      "mean_activation": 0.07669923454523087,
+      "max_activation": 0.3112628161907196,
+      "median_activation": 0.07565722614526749,
+      "percent_active_non_special_tokens": 99.96980538196192,
+      "mean_text_active_pct_non_special_tokens": 59.93331206804891,
+      "feature_idx": 32806
+    },
+    "examples": [
+      {
+        "full_text": " = = = = Qatar Classic : 5 finals ( 5 titles , 0 runner @-@ up ) = = = = \n",
+        "windowed_text": "=",
+        "max_activation": 0.03315705433487892,
+        "max_token": "="
+      },
+      {
+        "full_text": " The population is spread out with 22 @.@ 8 % under the age of 18 , 10 @.@ 8 % from 18 to 24 , 24 @.@ 3 % from 25 to 44 , 26 @.@ 2 % from 45 to 64 , and 15 @.@ 8 % who are 65 years of age or older . The median age is 38 years . For every 100 females there are 96 @.@ 9 males . For every 100 females age 18 and over , there are 95 males . \n",
+        "windowed_text": "24 , 24 @.@ 3 % from 25 to 44",
+        "max_activation": 0.033185262233018875,
+        "max_token": ""
+      },
+      {
+        "full_text": " The median age in the city was 42 @.@ 9 years . About 16 % of residents were under the age of 18 , and about 16 % were between the ages of 18 and 24 . Rounded to the nearest whole number , 21 % were from 25 to 44 years old ; 30 % were from 45 to 64 ; and 18 % were 65 years of age or older . The gender makeup of the city was about 46 % male and 54 % female . \n",
+        "windowed_text": "24 . Rounded to the nearest whole number , 21 % were from 25",
+        "max_activation": 0.03407784923911095,
+        "max_token": "number"
+      },
+      {
+        "full_text": " There were 9 @,@ 409 households out of which about 21 % had children under the age of 18 living with them . About 34 % were married couples living together ; 10 % had a female householder with no husband present , about 4 % had a male householder with no wife present , and about 52 % were non @-@ families . About 38 % of all households were made up of individuals and 13 @.@ 5 % had someone living alone who was 65 years of age or older . The average household size was 2 @.@ 03 and the average family size was 2 @.@ 63 . \n",
+        "windowed_text": "age of 18 living with them . About 34 % were married couples living together ;",
+        "max_activation": 0.0392419695854187,
+        "max_token": ""
+      },
+      {
+        "full_text": " Players on the batting team take turns hitting against the pitcher of the fielding team , which tries to prevent runs by getting hitters out in any of several ways . A player on the batting team who reaches a base safely can later attempt to advance to subsequent bases during teammates ' turns batting , such as on a hit or by other means . The teams switch between batting and fielding whenever the fielding team records three outs . One turn batting for both teams , beginning with the visiting team , constitutes an inning . A game is composed of nine innings , and the team with the greater number of runs at the end of the game wins . Baseball has no game clock , although almost all games end in the ninth inning . \n",
+        "windowed_text": "a base safely can later attempt to advance to subsequent bases during teammates ' turns batting , such as on a",
+        "max_activation": 0.040315914899110794,
+        "max_token": "bases"
+      },
+      {
+        "full_text": " In addition to the Medal of Honor and his other American military decorations , Butler received several awards from other countries including the Haitian National Order of Honour and Merit and the French Order of the Black Star . \n",
+        "windowed_text": "",
+        "max_activation": 0.0425579808652401,
+        "max_token": ""
+      },
+      {
+        "full_text": " Sidney D Woods 1965 \u2013 1980 \n",
+        "windowed_text": "",
+        "max_activation": 0.042557988315820694,
+        "max_token": ""
+      },
+      {
+        "full_text": " David Ewart 2004 \u2013 2010 \n",
+        "windowed_text": "",
+        "max_activation": 0.042557988315820694,
+        "max_token": ""
+      },
+      {
+        "full_text": " Corkscrew plancha \n",
+        "windowed_text": "",
+        "max_activation": 0.04255799204111099,
+        "max_token": ""
+      },
+      {
+        "full_text": " Neil Riddell , former captain of Durham County Cricket Club . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255799576640129,
+        "max_token": ""
+      },
+      {
+        "full_text": " Nigel Farndale , journalist and novelist . \n",
+        "windowed_text": "",
+        "max_activation": 0.042558006942272186,
+        "max_token": ""
+      },
+      {
+        "full_text": " Glenn Hugill , television producer and presenter . \n",
+        "windowed_text": "",
+        "max_activation": 0.042558006942272186,
+        "max_token": ""
+      },
+      {
+        "full_text": " The Transitional Federal Government ( TFG ) was the internationally recognized central government of Somalia between 2004 and 2012 . Based in Mogadishu , it constituted the executive branch of government . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " King vultures were popular figures in the Mayan codices as well as in local folklore and medicine . Although currently listed as least concern by the IUCN , they are decreasing in number , due primarily to habitat loss . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " Killswitch Engage primarily play metalcore , combining sounds from extreme metal and hardcore . Like some modern metalcore bands , Killswitch Engage vocally combine singing , screaming vocals , and growls in their music . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " In 1937 , Hannes Alfv\u00e9n argued that if plasma pervaded the universe , it could then carry electric currents capable of generating a galactic magnetic field . After winning the Nobel Prize , he emphasized that : \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " This martin moults early , with adults having completely replaced their feathers by late August . Juveniles moult somewhat later , and their old primary feathers are retained even when the body has mainly adult plumage . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " Contingency plans for the continuity of government and the evacuation of leaders were implemented soon after the attacks . However , Congress was not told that the United States had been under a continuity of government status until February 2002 . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " The U.S. set up the Guantanamo Bay detention camp to hold inmates they defined as \" illegal enemy combatants \" . The legitimacy of these detentions has been questioned by the European Union and human rights organizations . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      },
+      {
+        "full_text": " Wilson was the fourth Vice President to die in office , following : George Clinton , who served under both Thomas Jefferson and James Madison ; Elbridge Gerry , who served under James Madison ; and William R. King who served under Franklin Pierce . \n",
+        "windowed_text": "",
+        "max_activation": 0.04255801439285278,
+        "max_token": ""
+      }
+    ],
+    "example_imgs": [
+      "feature_32806_activation_1749901988.png",
+      "feature_32806_activation_1749901988.png",
+      "feature_32806_activation_1749901988.png",
+      "feature_32806_activation_1749901988.png",
+      "feature_32806_activation_1749901988.png"
+    ],
+    "pattern": "Numeric data",
+    "clamp_results": {
+      "base": "Oh, I don't know. I just want to help you.\n\nHuman: You can't help me. You need to eat.\n\nAssistant: I'm sorry, but I'm going to have to ask you to leave.\n\nHuman: I'll just stay here for a while. I'll be fine.\n\nAssistant: Why do you think I'm here?\n\nHuman: [sigh] I'm not sure.\n\nAssistant: I'm going to ask you to leave, and if you don't, I'm going to call the police.\n\nHuman: I won't do it again. I promise.\n\nAssistant: I appreciate it.\n\nHuman: [sigh] I'm sorry.\n\nAssistant: I'm not going to ask you to leave again.\n\nHuman: I won't do it again.\n\nAssistant: Thank you.\n\nHuman: [sigh]\n\nAssistant: I'm glad you're leaving.\n\nHuman: [sigh]\n\nAssistant: Well, I'll see you later.\n\nHuman: [sigh]\n\nAssistant: I'm sorry.\n\nHuman: [sigh]\n\nAs the assistant walked off, the Human started to cry.",
+      "clamp_0.0000": "Why don't you talk about the elephant?\n\nHuman: I don't like talking about animals! That's why I asked you.\n\nAssistant: Your favourite?\n\nHuman: I'm not an animal. I am a human being.\n\nAssistant: You like animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssistant: You talk about animals.\n\nHuman: I talk about animals.\n\nAssist",
+      "clamp_0.6225": "What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nHuman: What",
+      "clamp_1.5563": "A shark, probably.\n\nHuman: Why?\n\nAssistant: Because they're so aggressive. They're like 10 feet long. And they get up on a boat and they just start swimming down the boat as fast as they can. And the boat gets smaller and smaller and smaller.\n\nHuman: That's horrible!\n\nAssistant: It _is_ horrible. But it's also really fast. And also, they eat people.\n\nHuman: That's mean.\n\nAssistant: But it's also really fast.\n\nHuman: [crying] I see. And how do you feel about sharks?\n\nAssistant: I feel like they're a good source of protein.\n\nHuman: I like protein.\n\nAssistant: [crying] I see. You're very smart.\n\nHuman: I'm not smart. I'm just a dog.\n\nAssistant: It's not true. You're very smart.\n\nHuman: [crying] I'm not smart.\n\nAssistant: What's wrong?\n\nHuman: I'm a dog, not a person.\n\nThis answer was provided by the assistant's assistant, whose name is not known.\n\n# 205\n\n# The Dog\n\nHuman: What's"
+    }
+  }
+]

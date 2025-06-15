@@ -1,0 +1,240 @@
+--- Example 1 ---
+Max Activation: 0.0000
+Max Token: 'Guitar'
+Windowed Text:
+In his book While My Guitar Gently Weeps , Simon Leng describes George
+
+Full Text (truncated to 100 tokens):
+ In his book While My Guitar Gently Weeps , Simon Leng describes George Harrison 's musical projects outside the Beatles during 1969 – 70 – such as producing American gospel and soul artists Billy Preston and Doris Troy , and touring with Delaney & Bonnie and Friends – as the completion of " a musical @-@ philosophical circle " , which resulted in his post @-@ Beatles solo album All Things Must Pass ( 1970 ) . Among the songs on that triple album , " My Sweet Lord " and " Awaiting on You All " each reflect Harrison 's immersion in Krishna Consciousness , via his association with the UK branch of the International Society for Krishna Consciousness ( ISKCON ) , known as the Radha Krishna Temple . An ISKCON devotee since 1970 , author Joshua Greene writes of All Things Must Pass providing an " intimately detailed account of a spiritual journey " , which had begun with Harrison 's embracing of Hinduism while in India in September – October 1966 . 
+
+
+--------------------------------------------------
+
+--- Example 2 ---
+Max Activation: 0.0023
+Max Token: 'in'
+Windowed Text:
+opard Gang " ; she calls herself " Swingin ' Door Susie " , and David " Jerry
+
+Full Text (truncated to 100 tokens):
+ They are jailed by a befuddled town policeman , Constable Slocum ( Walter Catlett ) , for breaking into the house of Dr. Fritz Lehman ( Fritz Feld ) ( where they had cornered the circus leopard ) . When Slocum does not believe their story , Susan tells him they are members of the " Leopard Gang " ; she calls herself " Swingin ' Door Susie " , and David " Jerry the Nipper " . David fails to convince the constable that Susan makes things up " from motion pictures she 's seen " . Eventually , Alexander Peabody ( George Irving ) shows up to verify everyone 's identity . Susan ( who has sneaked out a window ) unwittingly drags the irritated circus leopard into the jail ; David saves her , using a chair to shoo the big cat into a cell . 
+
+
+--------------------------------------------------
+
+--- Example 3 ---
+Max Activation: 0.0028
+Max Token: 'C'
+Windowed Text:
+into a puddle of brown . " Sal Cinquemani from Slant Magazine complimented Carey
+
+Full Text (truncated to 100 tokens):
+ Rating Charmbracelet two out of five stars , Barry Walters from Rolling Stone wrote that none of the songs were bold , that the lack of hooks made the album weak , and said , " Carey needs bold songs that help her use the power and range for which she is famous . Charmbracelet is like a stream of watercolors that bleed into a puddle of brown . " Sal Cinquemani from Slant Magazine complimented Carey 's mixture of pop and hip @-@ hop melodies , and wrote , " Though there 's nothing as immediate as ' Fantasy ' or ' My All ' here , Charmbracelet is significantly less contrived than 1999 's Rainbow and almost as creatively liberating as Butterfly . British columnist Angus Batey , writing for Yahoo ! Music UK called the songs on Charmbracelet forgettable , and wrote , " She used to take risks , but ' Charmbracelet ' is conservative , unadventurous and uninspiring ; and , while it 's understandable that simply to make another record marks a triumph of sorts , it 's impossible to admire Mariah to the degree that her talent ought to merit . " John Mulvey from NME criticized its content , writing , " Nominally , ' Charmbracelet ' is R & B , much like Tony Blair is nominally a socialist ... Tragedies , all told , have been worse " 
+
+
+--------------------------------------------------
+
+--- Example 4 ---
+Max Activation: 0.0039
+Max Token: ','
+Windowed Text:
+records three outs . One turn batting for both teams , beginning with the visiting team ,
+
+Full Text (truncated to 100 tokens):
+ Players on the batting team take turns hitting against the pitcher of the fielding team , which tries to prevent runs by getting hitters out in any of several ways . A player on the batting team who reaches a base safely can later attempt to advance to subsequent bases during teammates ' turns batting , such as on a hit or by other means . The teams switch between batting and fielding whenever the fielding team records three outs . One turn batting for both teams , beginning with the visiting team , constitutes an inning . A game is composed of nine innings , and the team with the greater number of runs at the end of the game wins . Baseball has no game clock , although almost all games end in the ninth inning . 
+
+
+--------------------------------------------------
+
+--- Example 5 ---
+Max Activation: 0.0044
+Max Token: 'M'
+Windowed Text:
+Greg LeMond was born in Lakewood , California , and
+
+Full Text (truncated to 100 tokens):
+ Greg LeMond was born in Lakewood , California , and raised in Washoe Valley which is ranch country on the eastern slopes of the Sierra Nevada mountain range , two miles north of Carson City and 18 miles south of Reno . His parents are Bob LeMond and Bertha ( d . 2006 ) , and he has two sisters , Kathy and Karen . He attended Earl Wooster High School in Reno , NV . Greg frequently rode his bike to high school , sometimes cutting class to get home early . He would then ride a loop west over Mt . Rose , south along Lake Tahoe , then east on Hwy 28 to Carson City . Then Greg would follow Carson Street over the hill to Washoe Valley and his home . 
+
+
+--------------------------------------------------
+
+--- Example 6 ---
+Max Activation: 0.0044
+Max Token: '9'
+Windowed Text:
+16 – 6 . Federer leads 9 – 5 on hard courts , 2 –
+
+Full Text (truncated to 100 tokens):
+ Tomáš Berdych and Federer have played each other 22 times with Federer leading 16 – 6 . Federer leads 9 – 5 on hard courts , 2 – 1 on grass courts , 4 – 0 on clay courts , and 1 – 0 on carpet . Berdych won their first professional match , notably upsetting then world No. 1 Federer at the 2004 Summer Olympics . Federer then went on to win their next eight meetings , before Berdych ended the losing streak in 2010 . Between 2010 and 2013 , Berdych won 5 of 8 meetings . Federer then switched to a larger racquet in 2014 to prevent being overpowered by players like Berdych and leads 5 – 0 since . They have met seven times in Grand Slam tournaments , with Federer leading 5 – 2 , and Berdych is one of five players , along with Arnaud Clément , Álex Corretja , David Nalbandian , and Jo @-@ Wilfried Tsonga , to defeat Federer multiple times in majors before the semifinal stage . Their most notable Grand Slam matches took place in the 2009 Australian Open , when Federer prevailed in five sets after dropping the first two sets , the 2010 Wimbledon Championships , the 2012 US Open , both of which Berdych won in four sets. and the 2016 Australian Open , which Federer won in straight sets . 
+
+
+--------------------------------------------------
+
+--- Example 7 ---
+Max Activation: 0.0050
+Max Token: '.'
+Windowed Text:
+The African American Experience in Texas : An Anthology . Texas Tech University Press . ISBN 978
+
+Full Text (truncated to 100 tokens):
+ SoRelle , James M. ( 2007 ) . " The " Waco Horror " : The Lynching of Jesse Washington " . In Bruce A. Glasrud and James Smallwood . The African American Experience in Texas : An Anthology . Texas Tech University Press . ISBN 978 @-@ 0 @-@ 89672 @-@ 609 @-@ 3 . 
+
+
+--------------------------------------------------
+
+--- Example 8 ---
+Max Activation: 0.0059
+Max Token: 'err'
+Windowed Text:
+and electro music . Houston Press writer Shea Serrano describes the album as a " new take on
+
+Full Text (truncated to 100 tokens):
+ The album 's sound also incorporates diverse musical elements from various genres such as funk , soul , rock , dubstep , and electro music . Houston Press writer Shea Serrano describes the album as a " new take on the traditional Southern rap sound . It 's slow and fast , wonky and flimsy , lyrical and hook @-@ driven " . Tom Breihan of Pitchfork Media perceives " 1980s synth @-@ funk " as its predominant musical element , but also finds each track musically varied , stating " New melodic elements flit in and out of tracks just as you start to notice them , and there 's a lot going on at any given moment " . Big Boi has called the music " basically what you been getting from Outkast . Raw lyricism and the funkiest grooves you can lay your ears on . " 
+
+
+--------------------------------------------------
+
+--- Example 9 ---
+Max Activation: 0.0063
+Max Token: ')'
+Windowed Text:
+km ( 2 @.@ 2 mi ) remaining , but Péraud closed down the
+
+Full Text (truncated to 100 tokens):
+ None of the quintet attacked each other , and they remained as one into the final 5 km ( 3 @.@ 1 mi ) of the stage . Kišerlovski played his hand first , launching an attack with 3 @.@ 5 km ( 2 @.@ 2 mi ) remaining , but Péraud closed down the move almost immediately ; a secondary move took Martínez and Gautier out of the equation for the stage victory . Péraud accelerated again and Millar latched onto his wheel with Kišerlovski unable to follow the pair . Millar took the front inside the final 1 km ( 0 @.@ 6 mi ) , but Péraud remained on his wheel until just before 200 m ( 660 ft ) to go ; he launched his attack , but Millar beat him to the line for his fourth individual stage victory at the Tour – his first since 2003 – and the fourth different British rider to take a stage win at the 2012 Tour . The peloton was led across the line almost eight minutes down by the top two in the points classification , Orica – GreenEDGE 's Matthew Goss and Liquigas – Cannondale 's Peter Sagan . Sagan protested the sprint finish of Goss , feeling that he had impeded him in the closing metres . Race officials agreed with Sagan and demoted Goss to seventh – helped in part by a one @-@ second time gap between them and the rest of the field – and penalised him 30 points in the classification , and 30 seconds overall . 
+
+
+--------------------------------------------------
+
+--- Example 10 ---
+Max Activation: 0.0063
+Max Token: '.'
+Windowed Text:
+films that we made on a wing and a prayer . I love those , but Iron Man is refreshing in
+
+Full Text (truncated to 100 tokens):
+ A geneticist whose work helped Killian to create Extremis . Hall said Hansen would be a " strong female character , " and described her decision to take the role , saying , " I decided to do Iron Man 3 because I 've never done the ' hurry up and wait ' movie before . Even the studio movies I 've done have been small studio movies , or indie films that we made on a wing and a prayer . I love those , but Iron Man is refreshing in a way because it 's something out of my realm of experiences . " 
+
+
+--------------------------------------------------
+
+--- Example 11 ---
+Max Activation: 0.0063
+Max Token: ')'
+Windowed Text:
+( 0 @.@ 06 in ) wide . New growth occurs in summer , and flower
+
+Full Text (truncated to 100 tokens):
+ Banksia violacea grows as a shrub up to 1 @.@ 5 m ( 5 ft ) tall , with narrow leaves 1 – 2 cm ( 0 @.@ 4 – 0 @.@ 8 in ) long and about 0 @.@ 15 cm ( 0 @.@ 06 in ) wide . New growth occurs in summer , and flowering ranges from November to April with a peak in February , but can be irregular in timing . Flowers arise from typical Banksia " flower spikes " , and the inflorescences are made up of hundreds of pairs of flowers densely packed in a spiral around a woody axis . Roughly spherical with a diameter of 2 – 3 cm ( 0 @.@ 8 – 1 @.@ 2 in ) , the flower spikes arise from lateral stems lie partly within the foliage . Unusually for Banksia species , the inflorescences are often violet in colour , ranging anywhere from a dark violet @-@ black through various combinations of violet and greenish @-@ yellow in less pigmented blooms . Each flower consists of a tubular perianth made up of four fused tepals , and one long wiry style . The styles are hooked rather than straight , and are initially trapped inside the upper perianth parts , but break free at anthesis . The old flowers gradually fade to brown . The fruiting structure or follicle is a stout woody " cone " , with a hairy appearance caused by the persistence of old withered flower parts . These follicles are crowded around the globular spike ( called an infructescence at this point ) and are oval to rhomboid , although the crowding makes some irregularly shaped . They measure 1 – 2 @.@ 5 cm ( 0 @.@ 4 – 1 in ) long , 0 @.@ 6 cm ( 0 @.@ 2 in ) high and 0 @.@ 8 – 2 @.@ 2 cm ( 0 @.@ 3 – 0 @.@ 9 in ) wide . They are quite flattened and lack a ridge along the valve line . When young , the follicles are greenish in colour and slightly sticky , and covered in fine white hairs , fading to tan or grey with age . They open with fire , releasing a winged wedge @-@ shaped ( cuneate ) seed 2 – 2 @.@ 5 cm ( 0 @.@ 8 – 1 in ) long . The mottled dark grey seed body is falcate ( crescent @-@ shaped ) and measures 1 @.@ 2 – 1 @.@ 8 cm ( 0 @.@ 5 – 0 @.@ 7 in ) long and 0 @.@ 2 – 0 @.@ 25 cm ( 0 @.@ 1 in ) wide , with a flattened dark brown wing 1 @.@ 1 – 1 @.@ 7 cm ( 0 @.@ 4 – 0 @.@ 5 in ) wide . The woody separator has the same dimensions as the seed . 
+
+
+--------------------------------------------------
+
+--- Example 12 ---
+Max Activation: 0.0065
+Max Token: ','
+Windowed Text:
+of the case given by Theomnestus , Apollodorus delivered the entirety of the speech
+
+Full Text (truncated to 100 tokens):
+ The speech Against Neaira is the source of most of the details of Neaira 's biography . It concerns a case brought against Neaira when she was about fifty by Apollodorus ' son @-@ in @-@ law Theomnestus , though apart from a brief introduction of the case given by Theomnestus , Apollodorus delivered the entirety of the speech . The case revolves around the accusation that Neaira , a foreigner , married an Athenian citizen , and that she was attempting to pass off her own children as Athenian citizens . 
+
+
+--------------------------------------------------
+
+--- Example 13 ---
+Max Activation: 0.0068
+Max Token: ')'
+Windowed Text:
+0 @.@ 079 in ) high , and 2 – 3 mm (
+
+Full Text (truncated to 100 tokens):
+ The infructescence is small , with up to 20 small follicles concentrated at the lower end of the spike . Each follicle is 6 – 8 mm ( 0 @.@ 24 – 0 @.@ 31 in ) long , 1 – 2 mm ( 0 @.@ 039 – 0 @.@ 079 in ) high , and 2 – 3 mm ( c . 0 @.@ 1 in ) wide and usually opens with fire . The 1 @.@ 1 – 1 @.@ 4 cm ( 0 @.@ 43 – 0 @.@ 55 in ) long seed is composed of the cuneate ( wedge @-@ shaped ) seed body proper , measuring 0 @.@ 5 – 0 @.@ 7 cm ( 0 @.@ 2 – 0 @.@ 3 in ) long and 0 @.@ 4 – 0 @.@ 7 cm ( 0 @.@ 2 – 0 @.@ 3 in ) wide , and a papery wing . One side , termed the outer surface , is grey @-@ black and wrinkled and the other — the inner surface — protrudes and is black and glistening . The seeds are separated by a dark brown seed separator that is roughly the same shape as the seeds with a depression where the seed body sits adjacent to it in the follicle . It measures 1 @.@ 1 – 1 @.@ 4 cm ( 0 @.@ 4 – 0 @.@ 6 in ) long and 0 @.@ 7 – 0 @.@ 8 cm ( 0 @.@ 3 – 0 @.@ 3 in ) wide . The dull green cotyledons of seedlings are 0 @.@ 8 – 0 @.@ 9 cm ( 0 @.@ 3 – 0 @.@ 4 in ) long and 0 @.@ 5 – 0 @.@ 6 cm ( 0 @.@ 2 – 0 @.@ 2 in ) wide , described by Alex George as " cuneate to obovate " . Each cotyledon has a 1 mm ( 0 @.@ 04 in ) auricle at its base . The thick , smooth hypocotyl is 1 cm ( 0 @.@ 5 in ) high and 1 @.@ 5 mm thick . The seedling leaves are crowded above the cotyledons and linear to spathulate in shape , with recurved and deeply serrated margins with v @-@ shaped sinuses , almost dividing the leaves into triangular lobes . The first pair are 0 @.@ 8 – 1 @.@ 2 cm ( 0 @.@ 3 – 0 @.@ 5 in ) long , with the next 2 – 4 leaves up to 1 @.@ 7 cm ( 0 @.@ 7 in ) long . Successive leaves are more obovate in shape and up to 4 cm ( 2 in ) long and 1 @.@ 4 cm ( 0 @.@ 6 in ) wide . The seedling stems are covered in white hair . 
+
+
+--------------------------------------------------
+
+--- Example 14 ---
+Max Activation: 0.0068
+Max Token: ')'
+Windowed Text:
+cm ( 0 @.@ 1 in ) wide . The greenish red hypocotyl is
+
+Full Text (truncated to 100 tokens):
+ The bright green cotyledon leaves of the seedlings are oblong to linear in shape and measure 1 @.@ 5 cm ( 0 @.@ 6 in ) long by 0 @.@ 3 cm ( 0 @.@ 1 in ) wide . The greenish red hypocotyl is hairy , as are the stems of young plants . The hairy seedling leaves are crowded and oppositely arranged . They measure 0 @.@ 7 – 1 @.@ 3 cm ( 0 @.@ 2 – 0 @.@ 5 in ) in length and have recurved margins . Young plants often begin branching within their first year of life . 
+
+
+--------------------------------------------------
+
+--- Example 15 ---
+Max Activation: 0.0069
+Max Token: 'ung'
+Windowed Text:
+that is thrown by the pitcher with a bat swung by the batter , then running counter @-@
+
+Full Text (truncated to 100 tokens):
+ The batting team attempts to score runs by hitting a ball that is thrown by the pitcher with a bat swung by the batter , then running counter @-@ clockwise around a series of four bases : first , second , third , and home plate . A run is scored when a player advances around the bases and returns to home plate . 
+
+
+--------------------------------------------------
+
+--- Example 16 ---
+Max Activation: 0.0076
+Max Token: 'C'
+Windowed Text:
+Sal Cinquemani of Slant Magazine said that "
+
+Full Text (truncated to 100 tokens):
+ Sal Cinquemani of Slant Magazine said that " Toxic " and " ( I Got That ) Boom Boom " , " find Britney dabbling in hip @-@ hop , but it 's clear her heart lies in the clubs . " Jamie Gill of Yahoo ! Music Radio commented that , " In the name of fairness , it will be noted that ' Toxic ' and ' Showdown ' could well have been good pop songs in the hands of any other singer than Spears . " Joan Anderman of The Boston Globe named it " a well @-@ titled cascade of frantic , mechanized glissandos and dreadful canned strings that buries the album 's coolest ( only ? ) chorus under a joyless mass " . The song was ranked at number five in the 2004 Pazz & Jop poll by The Village Voice . " Toxic " was nominated for Best Song at the 2004 MTV Europe Music Awards , but lost to Outkast 's " Hey Ya ! " . It won Best Single at the 2004 Teen Choice Awards . Pitchfork listed the song at number three on their Top 50 Singles of 2004 list . Rob Mitchum commented that Spears " finally , she just acted like an adult , rather than constantly reminding us she wasn 't a girl anymore . " 
+
+
+--------------------------------------------------
+
+--- Example 17 ---
+Max Activation: 0.0083
+Max Token: ')'
+Windowed Text:
+km ( 3 @.@ 1 mi ) apart , inside the first third of the stage –
+
+Full Text (truncated to 100 tokens):
+ The Tour concluded with the now @-@ customary stage finish on the Champs @-@ Élysées in Paris . The stage had an easy start – with two fourth @-@ category climbs 5 km ( 3 @.@ 1 mi ) apart , inside the first third of the stage – before eight high @-@ speed laps , followed by the finish , which was expected to result in a sprint for the line . In keeping with tradition , the final stage began at a slow pace , and was a largely ceremonial procession through the suburbs of Paris . Shortly after the riders reached the circuit in the centre of the city , racing began in earnest , and after various unsuccessful attempts , the main break was initiated by Jens Voigt ( RadioShack – Nissan ) and Lampre – ISD 's Danilo Hondo with around 40 km ( 24 @.@ 9 mi ) to go . 
+
+
+--------------------------------------------------
+
+--- Example 18 ---
+Max Activation: 0.0084
+Max Token: 'who'
+Windowed Text:
+and 15 @.@ 8 % who are 65 years of age or older .
+
+Full Text (truncated to 100 tokens):
+ The population is spread out with 22 @.@ 8 % under the age of 18 , 10 @.@ 8 % from 18 to 24 , 24 @.@ 3 % from 25 to 44 , 26 @.@ 2 % from 45 to 64 , and 15 @.@ 8 % who are 65 years of age or older . The median age is 38 years . For every 100 females there are 96 @.@ 9 males . For every 100 females age 18 and over , there are 95 males . 
+
+
+--------------------------------------------------
+
+--- Example 19 ---
+Max Activation: 0.0089
+Max Token: 'spiritual'
+Windowed Text:
+etano da Thiene , an opponent of the spirituali , reported his suspicions of Verm
+
+Full Text (truncated to 100 tokens):
+ Vermigli 's move away from orthodox Catholic belief became apparent in 1539 when he preached on 1 Corinthians 3 : 9 – 17 , a passage commonly used as proof of the doctrine of purgatory . Vermigli did not take this view in his preaching , though he did not openly deny the existence of purgatory . Gaetano da Thiene , an opponent of the spirituali , reported his suspicions of Vermigli to the Spanish viceroy of Naples Don Pedro de Toledo , who prohibited Vermigli 's preaching . The prohibition was removed on Vermigli 's appeal to Rome , with which he received some help from powerful friends he had made in Padua , such as Cardinals Pole and Bembo . Despite this controversy , Vermigli continued to rise in the Lateran Congregation . He was made one of four visitors by the chapter @-@ general in 1540 . The visitors assisted the rector general by inspecting the Congregation 's religious houses . 
+
+
+--------------------------------------------------
+
+--- Example 20 ---
+Max Activation: 0.0092
+Max Token: '.'
+Windowed Text:
+She Never Knew " . Anchorage Daily News . Archived from the original on 2008
+
+Full Text (truncated to 100 tokens):
+ McDaniel , Sandi ( July 16 , 1993 ) . " Searching for a Father on Attu for Daughter of WWII Japanese Medic , Island is Link to a Parent She Never Knew " . Anchorage Daily News . Archived from the original on 2008 @-@ 04 @-@ 22 . Retrieved 2008 @-@ 05 @-@ 04 . 
+
+
+--------------------------------------------------
+

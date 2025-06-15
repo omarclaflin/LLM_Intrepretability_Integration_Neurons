@@ -1,0 +1,240 @@
+--- Example 1 ---
+Max Activation: 0.2524
+Max Token: 'folk'
+Windowed Text:
+ankar the latter hummed a tune that was folk @-@ based but had " a certain sophistic
+
+Full Text (truncated to 100 tokens):
+ Shankar saw about half the film in a roughly edited version before composing the background score , but he was already familiar with the story . According to Robinson , when Ray met Shankar the latter hummed a tune that was folk @-@ based but had " a certain sophistication " . This tune , usually played on a bamboo flute , became the main theme for the film . The majority of the score was composed within the duration of a single night , in a session that lasted for about eleven hours . Shankar also composed two solo sitar pieces — one based on the raga Desh ( traditionally associated with rain ) , and one sombre piece based on the raga Todi . He created a piece based on the raga Patdeep , played on the tar shehnai , to accompany the scene in which Harihar learns of Durga 's death . The film 's cinematographer , Subrata Mitra , performed on the sitar for parts of the soundtrack . 
+
+
+--------------------------------------------------
+
+--- Example 2 ---
+Max Activation: 0.2464
+Max Token: 'folk'
+Windowed Text:
+Bengal and was the forerunner of another type of folk performance , the jatra . English translations of the
+
+Full Text (truncated to 100 tokens):
+ The Bengali word path literally means path , and pather means " of the path " . The word panchali refers to a type of narrative folk song that used to be performed in Bengal and was the forerunner of another type of folk performance , the jatra . English translations of the Bengali title include Song of the Little Road , The Lament of the Path , Song of the Road , and Song of the Open Road . 
+
+
+--------------------------------------------------
+
+--- Example 3 ---
+Max Activation: 0.2444
+Max Token: 'folk'
+Windowed Text:
+Willett 's lyrics were a mixture of folk tales and topical stories , stating that " a lot
+
+Full Text (truncated to 100 tokens):
+ For the techniques used to craft the overall sound of the album , August Brown of the Los Angeles Times described the band foregoing the use of full chords and verse @-@ chorus @-@ verse structures in favor of " distant guitar effects , crunchy bass grooves and smatterings of percussion . " Regarding the songs from the album , Maust said that lead singer Nathan Willett 's lyrics were a mixture of folk tales and topical stories , stating that " a lot of people say the last record was more about yesteryear . This [ new record ] has some of that , but it 's much more today . The characters are people from today . " The thirteen tracks off the album deal with a variety of philosophies and politics that range from contemplating suicide , crisis of faith , alienation , anonymity , public security and job satisfaction . 
+
+
+--------------------------------------------------
+
+--- Example 4 ---
+Max Activation: 0.2315
+Max Token: 'folk'
+Windowed Text:
+a body of work that remains unique . Drawing on folk , blues , country , R & B , rock
+
+Full Text (truncated to 100 tokens):
+ Between late 1964 and the middle of 1966 , Dylan created a body of work that remains unique . Drawing on folk , blues , country , R & B , rock 'n'roll , gospel , British beat , symbolist , modernist and Beat poetry , surrealism and Dada , advertising jargon and social commentary , Fellini and Mad magazine , he forged a coherent and original artistic voice and vision . The beauty of these albums retains the power to shock and console . " 
+
+
+--------------------------------------------------
+
+--- Example 5 ---
+Max Activation: 0.2313
+Max Token: 'folk'
+Windowed Text:
+, Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s
+
+Full Text (truncated to 100 tokens):
+ Initially modeling his writing style on the songs of Woody Guthrie , the blues of Robert Johnson , and what he termed the " architectural forms " of Hank Williams songs , Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s , infusing it " with the intellectualism of classic literature and poetry " . Paul Simon suggested that Dylan 's early compositions virtually took over the folk genre : " [ Dylan 's ] early songs were very rich ... with strong melodies . ' Blowin ' in the Wind ' has a really strong melody . He so enlarged himself through the folk background that he incorporated it for a while . He defined the genre for a while . " 
+
+
+--------------------------------------------------
+
+--- Example 6 ---
+Max Activation: 0.2282
+Max Token: 'folk'
+Windowed Text:
+described him as a figure who had greatly expanded the folk culture from which he initially emerged . Following the release
+
+Full Text (truncated to 100 tokens):
+ If Dylan 's work in the 1960s was seen as bringing intellectual ambition to popular music , critics in the 21st century described him as a figure who had greatly expanded the folk culture from which he initially emerged . Following the release of Todd Haynes ' Dylan biopic I 'm Not There , J. Hoberman wrote in his 2007 Village Voice review : 
+
+
+--------------------------------------------------
+
+--- Example 7 ---
+Max Activation: 0.2201
+Max Token: 'folk'
+Windowed Text:
+through the village , and watching a jatra ( folk theatre ) performed by a troupe of actors .
+
+Full Text (truncated to 100 tokens):
+ As the elder sibling , Durga cares for Apu with motherly affection , but spares no opportunity to tease him . Together , they share the simple joys of life : sitting quietly under a tree , viewing pictures in a travelling vendor 's bioscope , running after the candy man who passes through the village , and watching a jatra ( folk theatre ) performed by a troupe of actors . Every evening they are delighted by the sound of a distant train 's whistle . One day , they run away from home to catch a glimpse of the train , only to discover Indir lying dead on their return . 
+
+
+--------------------------------------------------
+
+--- Example 8 ---
+Max Activation: 0.2201
+Max Token: '2'
+Windowed Text:
+released by Def Soul on October 9 , 2001 . Its release was postponed because of
+
+Full Text (truncated to 100 tokens):
+ Christina Milian is the self @-@ titled debut studio album by American singer Christina Milian released by Def Soul on October 9 , 2001 . Its release was postponed because of the September 11 attacks , which occurred just two weeks before its release date . Her label opted to release it later that year in Europe , but due to changing music trends , Milian decided not to release the album domestically . 
+
+
+--------------------------------------------------
+
+--- Example 9 ---
+Max Activation: 0.2197
+Max Token: 'folk'
+Windowed Text:
+adoration beyond reckoning — vanish into a folk tradition of
+
+Full Text (truncated to 100 tokens):
+ Elvis might never have been born , but someone else would surely have brought the world rock ' n ' roll . No such logic accounts for Bob Dylan . No iron law of history demanded that a would @-@ be Elvis from Hibbing , Minnesota , would swerve through the Greenwich Village folk revival to become the world 's first and greatest rock ' n ' roll beatnik bard and then — having achieved fame and adoration beyond reckoning — vanish into a folk tradition of his own making . 
+
+
+--------------------------------------------------
+
+--- Example 10 ---
+Max Activation: 0.2194
+Max Token: '2'
+Windowed Text:
+in digital download form on September 3 , 2013 . This was followed by the film
+
+Full Text (truncated to 100 tokens):
+ Iron Man 3 was released by Walt Disney Studios Home Entertainment in digital download form on September 3 , 2013 . This was followed by the film 's release on Blu @-@ ray disc , 3D Blu @-@ ray , DVD , digital copy , and on demand on September 24 , 2013 . The home video release includes a Marvel One @-@ Shot short film titled Agent Carter starring Hayley Atwell as Peggy Carter from Captain America : The First Avenger . It debuted atop the DVD and Blu @-@ ray charts in the United States , and second in the rental charts behind World War Z. As of January 31 , 2014 , Iron Man 3 is the eighth best @-@ selling DVD of 2013 , earning more than $ 79 million in sales in the U.S. 
+
+
+--------------------------------------------------
+
+--- Example 11 ---
+Max Activation: 0.2194
+Max Token: '2'
+Windowed Text:
+Game Boy Advance on October 18 , 2002 in Japan ; a Nintendo DS version
+
+Full Text (truncated to 100 tokens):
+ The game was originally released by Capcom for the Game Boy Advance on October 18 , 2002 in Japan ; a Nintendo DS version followed on October 26 , 2006 in Japan , on January 16 , 2007 in North America , and on March 16 , 2007 in Europe . A PC port of the Game Boy Advance version , developed by a company called Daletto , was released in Japan in an episodic format , starting on April 15 , 2008 . A Wii version was released through WiiWare on January 26 , 2010 in Japan , on February 15 , 2010 in North America , and on February 19 , 2010 in Europe . 
+
+
+--------------------------------------------------
+
+--- Example 12 ---
+Max Activation: 0.2170
+Max Token: '2'
+Windowed Text:
+list of the 10 Best Albums of 2010 . Paste ranked it number
+
+Full Text (truncated to 100 tokens):
+ The album appeared on numerous critics ' and publications ' year @-@ end top albums lists . Chris Yuscavage of Vibe ranked it number eight on his list of the 10 Best Albums of 2010 . Paste ranked it number 37 on its 50 Best Albums of 2010 list , calling it " a massive , ambitious album shot through with knee @-@ knocking beats and deft lyrical touches from Outkast ’ s swagger champion ... [ B ] oth a trove of pop jams and a profound piece of artistic experimentation " . Nitsuh Abebe of New York named it the second best album of 2010 and called it " as forward @-@ thinking as it was charming " . The A.V. Club ranked it number seven , NME ranked it number 38 , PopMatters ranked it number 10 , The Guardian ranked it number 27 , and Spin ranked it number 13 on its list . Rolling Stone placed it at number 21 on its year @-@ end albums list and called it " a nasty , future @-@ funk odyssey , done the way George Clinton used to do it : stretched @-@ out grooves , cavernous bass boom , gutbucket guitar and thick electro thump , all held together by Big Boi 's whiplash rhymes and pimper @-@ than @-@ thou style " . 
+
+
+--------------------------------------------------
+
+--- Example 13 ---
+Max Activation: 0.2160
+Max Token: '2'
+Windowed Text:
+on the morning of September 11 , 2001 . The attacks killed 2 @
+
+Full Text (truncated to 100 tokens):
+ The September 11 attacks ( also referred to as 9 / 11 ) were a series of four coordinated terrorist attacks by the Islamic terrorist group al @-@ Qaeda on the United States on the morning of September 11 , 2001 . The attacks killed 2 @,@ 996 people and injured over 6 @,@ 000 others and caused at least $ 10 billion in property and infrastructure damage and $ 3 trillion in total costs . 
+
+
+--------------------------------------------------
+
+--- Example 14 ---
+Max Activation: 0.2160
+Max Token: '2'
+Windowed Text:
+ork Media named it the fourth best album of 2010 and stated " [ T ] he
+
+Full Text (truncated to 100 tokens):
+ Time ranked the album number nine , with the publication 's Claire Suddath writing that " It 's an amalgam of beats , chants and raps mixed together with exacting precision . Big Boi deftly jumps between musical styles [ ... ] and his raps come so fast , he seems to never pause for breath " . Pitchfork Media named it the fourth best album of 2010 and stated " [ T ] he sound of Sir Lucious Left Foot is an exercise in recognizing traditions and pushing them miles ahead . Big Boi crowns it all with a lyrical acumen so detailed and charismatic — acting as benevolent hustler , knuckle @-@ dusting elder statesman , trickster smartass and street @-@ level philosopher " . It was voted the sixth @-@ best album in The Village Voice 's Pazz & Jop critics ' poll for 2010 , while 11 songs from the album were included in the poll 's singles list , including " Shutterbugg " ( number seven ) , " Shine Blockas " ( number 95 ) , and " Follow Us " ( number 316 ) . In 2014 , the album was named one of the 100 best albums of the decade " so far " in a list by Pitchfork Media . 
+
+
+--------------------------------------------------
+
+--- Example 15 ---
+Max Activation: 0.2151
+Max Token: '1'
+Windowed Text:
+while he would make one final short film in 19
+
+Full Text (truncated to 100 tokens):
+ At the height of his career as a director , Whale directed The Road Back ( 1937 ) , a sequel to All Quiet on the Western Front . Studio interference , possibly spurred by political pressure from Nazi Germany , led to the film 's being altered from Whale 's vision and The Road Back was a critical and commercial failure . A run of similar box @-@ office disappointments followed and , while he would make one final short film in 1950 , by 1941 his film directing career was over . He continued to direct for the stage and also rediscovered his love for painting and travel . His investments made him wealthy and he lived a comfortable retirement until suffering strokes in 1956 that robbed him of his vigor and left him in pain . He committed suicide on 29 May 1957 by drowning himself in his swimming pool . 
+
+
+--------------------------------------------------
+
+--- Example 16 ---
+Max Activation: 0.2150
+Max Token: '2'
+Windowed Text:
+was released in Japan on February 7 , 2012 , and in the West on May
+
+Full Text (truncated to 100 tokens):
+ A high @-@ definition iOS version of the first three Ace Attorney games , Ace Attorney : Phoenix Wright Trilogy HD , was released in Japan on February 7 , 2012 , and in the West on May 30 , 2013 . Another collection of the first three games , Phoenix Wright : Ace Attorney Trilogy , was released for the Nintendo 3DS in Japan on April 17 , 2014 , in North America on December 9 , 2014 , and in Europe on December 11 , 2014 . 
+
+
+--------------------------------------------------
+
+--- Example 17 ---
+Max Activation: 0.2150
+Max Token: '2'
+Windowed Text:
+was originally broadcast on February 20 , 2005 in the United States . It was
+
+Full Text (truncated to 100 tokens):
+ " There 's Something About Marrying " was originally broadcast on February 20 , 2005 in the United States . It was reported a long time in advance of the episode 's airing that a major character would come out as gay during the episode . At the Comic @-@ Con convention in July 2004 , Al Jean revealed : " We have a show where , to raise money , Springfield legalises gay marriage . Homer becomes a minister by going on the internet and filling out a form . A long @-@ time character comes out of the closet , but I 'm not saying who . " This led to much media speculation and publicity in the press for the episode . The last such " mystery Simpsons storyline " , as BBC News called it , occurred with the " Alone Again , Natura @-@ Diddily " episode in which it was announced prior to the broadcast that a character would be killed in the episode , leading to weeks of speculation before the revelation that it was Maude Flanders . 
+
+
+--------------------------------------------------
+
+--- Example 18 ---
+Max Activation: 0.2148
+Max Token: '2'
+Windowed Text:
+the Descent was released April 1 , 2013 in the UK . The album debuted
+
+Full Text (truncated to 100 tokens):
+ The album Disarm the Descent was released April 1 , 2013 in the UK . The album debuted at # 15 in the UK charts while debuting at # 7 in the Billboard top 200 April 2 in the US . The first single " In Due Time " was released on February 5 , 2013 . The album has received critical acclaim from reviewers , and has been labeled as a " true standout " and " nothing short of amazing " . It was announced in December 2013 that " In Due Time " was nominated for " Best Metal Performance " at the 2014 Grammy Awards , but lost to " God Is Dead ? " by Black Sabbath . A tour in May 2013 was done to promote the new album . With Miss May I , Darkest Hour , The Word Alive and Affiance as support . As I Lay Dying was originally supposed to be on the tour but dropped due to criminal charges from frontman Tim Lambesis . The band also did a co @-@ headliner with fellow Heavy Metal act Lamb of God in the October 2013 with Testament and Huntress as support for both bands . The band did a small headliner on the east coast for Halloween 2014 . With All That Remains , Death Ray Vision and City of Homes supporting . 
+
+
+--------------------------------------------------
+
+--- Example 19 ---
+Max Activation: 0.2145
+Max Token: '2'
+Windowed Text:
+PlayStation 2 on August 31 , 2004 in the United States . The game
+
+Full Text (truncated to 100 tokens):
+ Dynasty Warriors 4 : Empires ( 真 ・ 三國無双3 Empires ( Shin Sangokumusou 3 Empires ) in Japan ) is the second expansion of Dynasty Warriors 4 , released exclusively for the PlayStation 2 on August 31 , 2004 in the United States . The game adds a new strategy mode called ' Empire Mode ' which is based on the Romance of the Three Kingdoms series . However , the gameplay during attacking or defending against opposing forces is exactly the same as the original Dynasty Warriors 4 . The main goal in Empire Mode is to conquer the land in order to beat the game , by invading and conquering all areas and territories of China . In addition , the Japanese voices were added into the PS2 version of Dynasty Warriors 4 Empires for the American version . 
+
+
+--------------------------------------------------
+
+--- Example 20 ---
+Max Activation: 0.2143
+Max Token: '2'
+Windowed Text:
+premiered in TV Tokyo on October 4 , 2012 . It is a continuation of the
+
+Full Text (truncated to 100 tokens):
+ The series premiered in TV Tokyo on October 4 , 2012 . It is a continuation of the second Gintama ' anime that ended in March 2012 . The main staff from the second TV series remain in Gintama with Yoichi Fujita as the director . The series ended on March 28 , 2013 with a total of 13 episodes The episodes were collected in a total of four DVDs from December 19 , 2012 to May 22 , 2013 . 
+
+
+--------------------------------------------------
+

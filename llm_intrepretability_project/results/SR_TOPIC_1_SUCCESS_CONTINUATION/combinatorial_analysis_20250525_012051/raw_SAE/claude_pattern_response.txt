@@ -1,3 +1,0 @@
-Section headers
-
-EXPLANATION: The examples all appear to be section headers or titles within a document, enclosed in equals signs to visually set them apart from the rest of the text.

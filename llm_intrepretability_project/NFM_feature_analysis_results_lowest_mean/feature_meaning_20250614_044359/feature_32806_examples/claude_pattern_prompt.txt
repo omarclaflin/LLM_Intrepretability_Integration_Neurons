@@ -1,0 +1,15 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: = = = = Qatar Classic : 5 finals ( 5 titles , 0 runner @-@ up ) = = = =
+Example 2: The population is spread out with 22 @.@ 8 % under the age of 18 , 10 @.@ 8 % from 18 to 24 , 24 @.@ 3 % from 25 to 44 , 26 @.@ 2 % from 45 to 64 , and 15 @.@ 8 % who are 65 years of age or older . The median age is 38 years . For every 100 females there are 96 @.@ 9 males . For every 100 females age 18 and over , there are 95 males .
+Example 3: The median age in the city was 42 @.@ 9 years . About 16 % of residents were under the age of 18 , and about 16 % were between the ages of 18 and 24 . Rounded to the nearest whole number , 21 % were from 25 to 44 years old ; 30 % were from 45 to 64 ; and 18 % were 65 years of age or older . The gender makeup of the city was about 46 % male and 54 % female .
+Example 4: There were 9 @,@ 409 households out of which about 21 % had children under the age of 18 living with them . About 34 % were married couples living together ; 10 % had a female householder with no husband present , about 4 % had a male householder with no wife present , and about 52 % were non @-@ families . About 38 % of all households were made up of individuals and 13 @.@ 5 % had someone living alone who was 65 years of age or older . The average household size was 2 @.@ 03 and the average family size was 2 @.@ 63 .
+Example 5: Players on the batting team take turns hitting against the pitcher of the fielding team , which tries to prevent runs by getting hitters out in any of several ways . A player on the batting team who reaches a base safely can later attempt to advance to subsequent bases during teammates ' turns batting , such as on a hit or by other means . The teams switch between batting and fielding whenever the fielding team records three outs . One turn batting for both teams , beginning with the visiting team , constitutes an inning . A game is composed of nine innings , and the team with the greater number of runs at the end of the game wins . Baseball has no game clock , although almost all games end in the ninth inning .
+Example 6: In addition to the Medal of Honor and his other American military decorations , Butler received several awards from other countries including the Haitian National Order of Honour and Merit and the French Order of the Black Star .
+Example 7: Sidney D Woods 1965 – 1980
+Example 8: David Ewart 2004 – 2010
+Example 9: Corkscrew plancha
+Example 10: Neil Riddell , former captain of Durham County Cricket Club .
+----------------------------------------
+

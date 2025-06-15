@@ -1,3 +1,0 @@
-Factual inaccuracies
-
-EXPLANATION: The examples contain statements that are factually incorrect or incomplete, indicating that the feature is likely detecting inaccurate information or errors in the text.

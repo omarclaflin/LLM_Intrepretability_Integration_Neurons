@@ -1,0 +1,240 @@
+--- Example 1 ---
+Max Activation: 0.0000
+Max Token: 'CD'
+Windowed Text:
+the 12 @-@ inch vinyl and CD versions featured a performance of " Sliver "
+
+Full Text (truncated to 100 tokens):
+ " In Bloom " was released as the fourth single from Nevermind on November 30 , 1992 . The single was only released commercially in the United Kingdom ; promotional copies were released in the United States . The 7 @-@ inch vinyl and cassette editions of the single contained a live version of " Polly " as a B @-@ side , while the 12 @-@ inch vinyl and CD versions featured a performance of " Sliver " ; both songs were recorded at the same December 28 , 1991 concert . The single peaked at number 28 on the British singles chart . While lacking an American commercial release , the song charted at number five on the Billboard Album Rock Tracks chart . 
+
+
+--------------------------------------------------
+
+--- Example 2 ---
+Max Activation: 0.0000
+Max Token: 'end'
+Windowed Text:
+andangan , it was referred to as Pendekar dari Preanger ( Warrior from Pre
+
+Full Text (truncated to 100 tokens):
+ Kedok Ketawa was released in Batavia in July 1940 , with a press screening on 20 July . By September it was being shown in Surabaya . In some newspaper advertisements , such as in Pemandangan , it was referred to as Pendekar dari Preanger ( Warrior from Preanger ) , while in others it was advertised with the Dutch title Het Lachende Masker . It was marketed as an " Indonesian cocktail of violent actions ... and sweet romance " and rated for all ages . 
+
+
+--------------------------------------------------
+
+--- Example 3 ---
+Max Activation: 0.0000
+Max Token: 'di'
+Windowed Text:
+With his 1831 opera Robert le diable and its successors , he gave the genre
+
+Full Text (truncated to 100 tokens):
+ Giacomo Meyerbeer ( born Jacob Liebmann Beer ; 5 September 1791 – 2 May 1864 ) was a German opera composer of Jewish birth who has been described as perhaps the most successful stage composer of the nineteenth century . With his 1831 opera Robert le diable and its successors , he gave the genre of grand opera ' decisive character ' . Meyerbeer 's grand opera style was achieved by his merging of German orchestra style with Italian vocal tradition . These were employed in the context of sensational and melodramatic libretti created by Eugène Scribe and were enhanced by the up @-@ to @-@ date theatre technology of the Paris Opéra . They set a standard which helped to maintain Paris as the opera capital of the nineteenth century . 
+
+
+--------------------------------------------------
+
+--- Example 4 ---
+Max Activation: 0.0000
+Max Token: 'di'
+Windowed Text:
+plot , and sumptuous staging in Robert le diable proved a sure @-@ fire formula ,
+
+Full Text (truncated to 100 tokens):
+ The fusion of dramatic music , melodramatic plot , and sumptuous staging in Robert le diable proved a sure @-@ fire formula , as did the partnership with Scribe , which Meyerbeer would go on to repeat in Les Huguenots , Le prophète , and L 'Africaine . All of these operas held the international stage throughout the 19th century , as did the more pastoral Dinorah ( 1859 ) , making Meyerbeer the most frequently performed composer at leading opera houses in the nineteenth century . 
+
+
+--------------------------------------------------
+
+--- Example 5 ---
+Max Activation: 0.0000
+Max Token: 'di'
+Windowed Text:
+about the delay of the Berlin premiere of Robert le diable ( which finally took place in June 1
+
+Full Text (truncated to 100 tokens):
+ However , in Berlin Meyerbeer faced many problems , including the enmity of the jealous Gaspare Spontini , who since 1820 had been Court Kapellmeister and director of the Berlin Hofoper . Complaints were made in the Berlin press about the delay of the Berlin premiere of Robert le diable ( which finally took place in June 1832 ) , and Meyerbeer 's music was decried by the critic and poet Ludwig Rellstab . There was no sign of the German opera expected from Meyerbeer . Moreover , reactionary censorship laws prevented production of Les Huguenots in Berlin , ( and indeed in many other cities of Germany ) . Nevertheless , Meyerbeer , who ( as he wrote to a friend ) ' years ago ... swore to myself never to respond personally to attacks on my work , and never under any circumstances to cause or respond to personal polemics ' , refused to be drawn on any of these matters . 
+
+
+--------------------------------------------------
+
+--- Example 6 ---
+Max Activation: 0.0000
+Max Token: 'same'
+Windowed Text:
+temper his writing to their strengths ; but at the same time he seemed little interested in expressing the emotions of
+
+Full Text (truncated to 100 tokens):
+ All of his significant music is for the voice ( opera and songs ) and this reflects his detailed grounding in Italian opera . Throughout his career he wrote his operas with specific singers in mind and took great care to temper his writing to their strengths ; but at the same time he seemed little interested in expressing the emotions of his characters , preferring to use his music to underline the larger @-@ scale machinations of the plot . In this way he was close to the ideas of his teacher Vogler , himself renowned for his dramatic depictions of nature and incident in keyboard music , who wrote in 1779 that " writing beautifully is easy ; expression is not too difficult ; but only the genius of a great painter ... can choose for each picture agreeable and natural colours that are particular to it . " Indeed , his devotion to the voice often led him to ignore the dramatic cohesion of his operas ; typically , he would write far too much music and the scores of his operas would have to be drastically cut during rehearsals . ( The lengthy overture to Le prophète had to be cut in its entirety , surviving only in a piano arrangement by Charles @-@ Valentin Alkan ) . 
+
+
+--------------------------------------------------
+
+--- Example 7 ---
+Max Activation: 0.0000
+Max Token: '�'
+Windowed Text:
+�������ατος ὑπα
+
+Full Text (truncated to 100 tokens):
+ Several inscriptions dating to the end of 257 or early 258 show Odaenathus bearing the title " ὁ λαμπρότατος ὑπατικός " ( Clarissimus Consularis ) ; this could be a mere honoring or a sign that he was appointed as the Legatus of Phoenice . However , the title ( ὁ λαμπρότατος ὑπατικός ) was sometimes used in Syria to denote the provincial governor and William Waddington proposed that Odaenathus was indeed the governor of Phoenice . 
+
+
+--------------------------------------------------
+
+--- Example 8 ---
+Max Activation: 0.0000
+Max Token: 'app'
+Windowed Text:
+a prisoner . The Persian emperor then ravaged Cappadocia , Cilicia and claimed to
+
+Full Text (truncated to 100 tokens):
+ Faced with Shapur 's third campaign , the Roman emperor Valerian marched against the Persian monarch but was defeated near Edessa in late spring 260 and taken as a prisoner . The Persian emperor then ravaged Cappadocia , Cilicia and claimed to have captured Antioch , the metropolis of Syria . Taking advantage of the situation , Fulvius Macrianus , the commander of the imperial treasury , declared his sons Quietus and Macrianus Minor as joint emperors in August 260 opposing Valerian 's son Gallienus . Fulvius Macrianus took Antioch as his center and organized the resistance against Shapur ; he dispatched Balista , his praetorian prefect , to Anatolia . Shapur was defeated in the region of Sebaste at Pompeiopolis prompting the Persians to evacuate Cilicia while Balista went back to Antioch . Balista 's victory was only partial , as Shapur withdrew east of Cilicia where the marauding Persian units continued to occupy the area , while a Persian force took advantage of Balista 's return to Syria and headed further west in Anatolia . 
+
+
+--------------------------------------------------
+
+--- Example 9 ---
+Max Activation: 0.0000
+Max Token: 'known'
+Windowed Text:
+Banksia violacea , commonly known as violet banksia , is a species of
+
+Full Text (truncated to 100 tokens):
+ Banksia violacea , commonly known as violet banksia , is a species of shrub or tree in the plant genus Banksia ( family Proteaceae ) . It generally grows as a small shrub to 1 @.@ 5 m ( 5 ft ) high with fine narrow leaves , and is best known for its unusually coloured dark purple @-@ violet inflorescences . The colour of the inflorescences , short leaves , and flattened follicles which are sticky when young , help identify this species from others in the field . It is found in low shrubland in southern regions of Western Australia from Esperance in the east to Narrogin in the west , growing exclusively in sandy soils . 
+
+
+--------------------------------------------------
+
+--- Example 10 ---
+Max Activation: 0.0000
+Max Token: 'is'
+Windowed Text:
+954 or 1955 ) is a Canadian politician who was elected to the 3
+
+Full Text (truncated to 100 tokens):
+ Rob Howard ( born 1954 or 1955 ) is a Canadian politician who was elected to the 39th Parliament of British Columbia as the Member of the Legislative Assembly of British Columbia from the riding of Richmond Centre . A member of the BC Liberal Party , he replaced retiring BC Liberal Olga Ilich in that riding , by winning the riding in the 2009 provincial election . While his party formed a majority government , Howard was not included in Gordon Campbell 's cabinet but was appointed to several committees , including the Select Standing Committee on Public Accounts in the first two sessions , and Select Standing Committee on Finance and Government Services in the third and fourth session . Howard introduced one piece of legislation , the Trustee Board of the Church of God , Richmond Municipality , B.C. ( Corporate Restoration ) Act , 2009 ( Pr 402 ) , to retroactively restore that organization 's corporate status . 
+
+
+--------------------------------------------------
+
+--- Example 11 ---
+Max Activation: 0.0000
+Max Token: '4'
+Windowed Text:
+the non @-@ profit organization OpenSkies4Canada . Howard
+
+Full Text (truncated to 100 tokens):
+ As chair of the Select Standing Committee on Finance and Government Services , Howard supported Premier Campbell 's efforts at establishing the Harmonized Sales Tax . Following Campbell 's resignation , Howard endorsed Kevin Falcon but Christy Clark won the leadership election . Clark eventually made Howard a Parliamentary Secretary in the Ministry of Transportation . In this position he advocated for Open Sky agreements and continued this advocacy in his post @-@ political life by establishing the non @-@ profit organization OpenSkies4Canada . Howard did not seek re @-@ election during the 2013 provincial election and was replaced by BC Liberal Teresa Wat . 
+
+
+--------------------------------------------------
+
+--- Example 12 ---
+Max Activation: 0.0000
+Max Token: 'wrote'
+Windowed Text:
+Rihanna co @-@ wrote " Rockstar 101 " in collaboration
+
+Full Text (truncated to 100 tokens):
+ Rihanna co @-@ wrote " Rockstar 101 " in collaboration with the song 's producers The @-@ Dream and Christopher " Tricky " Stewart . Her vocals and the instrumentation for the song were recorded at Serenity Sound Studios in Los Angeles , California , the Boom Boom Room in Burbank , California and Triangle Sound Studios in Atlanta , Georgia . It was mixed by Jaycen Joshua at Larrabee Studios in Universal City , California ; he was assisted in the process by Giancarlo Lino . Rihanna 's vocals were produced by Makeba Riddick . The song was engineered by Marcus Tovar , Brian " B @-@ LUV " Thomas , Andrew Wuepper and Chris " TEK " O 'Ryan . Additional engineering was done by Pat Thrall . Guitar was provided by Tim Stewart , while Monte Neuble performed additional keys . The song features a guitar performance by Slash , the British @-@ American musician , songwriter and former lead guitarist of the American hard rock band Guns N ' Roses . 
+
+
+--------------------------------------------------
+
+--- Example 13 ---
+Max Activation: 0.0000
+Max Token: 'art'
+Windowed Text:
+despite sounding disjointed at first . Emily Tartanella of PopMatters defined " Rockstar
+
+Full Text (truncated to 100 tokens):
+ " Rockstar 101 " received mixed responses from music critics . Brian Linder for IGN praised the song , writing that it " actually works " despite sounding disjointed at first . Emily Tartanella of PopMatters defined " Rockstar 101 " as a " brilliant bit of bravado " during her review of Rated R , while Ailbhe Malone for NME wrote that Rihanna sings with " swagger " on the track , which was something that she has Hova to thank for . Jon Pareles for The New York Times simply highlighted a line from the song , " I never play the victim " . Neil McCormick for The Daily Telegraph thought that " Rockstar 101 " was one of the few songs on the album to retain the " vaguest leftover hints of her warm Caribbean vocal flavouring " . Ann Powers for the Los Angeles Times was critical of Slash 's inclusion on the song , and she described it as an " afterthought " . Powers wrote " she can definitely get by without that ultimate rock phallic symbol " , a reference to Slash . Pitchfork Media 's Ryan Dombell felt that " Rockstar 101 , alike " Russian Roulette " and " The Last Song " , were " instantly @-@ dated missteps from a bygone era when a Slash feature was cool " . He further wrote that " Rockstar 101 " and " G4L " were " harder to justify considering their mindless boasts and torpid production " . The song was met with a negative review from The Guardian 's Alex Petridis , who wrote " At one extreme , the resemblance of ' Umbrella ' ' s chorus to that of a stadium rock ballad seems to have encouraged Rihanna to cut out the middle @-@ man and just start making stadium rock : cue the awful widdly @-@ woo guitars of ' Rockstar 101 ' and ' Fire Bomb ' " . 
+
+
+--------------------------------------------------
+
+--- Example 14 ---
+Max Activation: 0.0000
+Max Token: 'ob'
+Windowed Text:
+, 1968 ) , and Jakob Luke ( born December 9 , 19
+
+Full Text (truncated to 100 tokens):
+ Dylan married Sara Lownds on November 22 , 1965 . Their first child , Jesse Byron Dylan , was born on January 6 , 1966 , and they had three more children : Anna Lea ( born July 11 , 1967 ) , Samuel Isaac Abram ( born July 30 , 1968 ) , and Jakob Luke ( born December 9 , 1969 ) . Dylan also adopted Sara 's daughter from a prior marriage , Maria Lownds ( later Dylan , born October 21 , 1961 ) . Bob and Sara Dylan were divorced on June 29 , 1977 . Maria married musician Peter Himmelman in 1988 . In the 1990s , Dylan 's son Jakob became well known as the lead singer of the band The Wallflowers . Jesse Dylan is a film director and a successful businessman . 
+
+
+--------------------------------------------------
+
+--- Example 15 ---
+Max Activation: 0.0000
+Max Token: 'ad'
+Windowed Text:
+'s assassination was led by Lieutenant Colonel Salaad Gabeyre Kediye and Chief of Police
+
+Full Text (truncated to 100 tokens):
+ Alongside Barre , the Supreme Revolutionary Council ( SRC ) that assumed power after President Sharmarke 's assassination was led by Lieutenant Colonel Salaad Gabeyre Kediye and Chief of Police Jama Korshel . Kediye officially held the title of " Father of the Revolution , " and Barre shortly afterwards became the head of the SRC . The SRC subsequently renamed the country the Somali Democratic Republic , arrested members of the former civilian government , banned political parties , dissolved the parliament and the Supreme Court , and suspended the constitution . 
+
+
+--------------------------------------------------
+
+--- Example 16 ---
+Max Activation: 0.0000
+Max Token: '9'
+Windowed Text:
+Between 31 May and 9 June 2008 , representatives of Somalia
+
+Full Text (truncated to 100 tokens):
+ Between 31 May and 9 June 2008 , representatives of Somalia 's federal government and the moderate Alliance for the Re @-@ liberation of Somalia ( ARS ) group of Islamist rebels participated in peace talks in Djibouti brokered by the UN . The conference ended with a signed agreement calling for the withdrawal of Ethiopian troops in exchange for the cessation of armed confrontation . Parliament was subsequently expanded to 550 seats to accommodate ARS members , which then elected a new president . With the help of a small team of African Union troops , the coalition government also began a counteroffensive in February 2009 to retake control of the southern half of the country . To solidify its control of southern Somalia , the TFG formed an alliance with the Islamic Courts Union , other members of the Alliance for the Re @-@ liberation of Somalia , and Ahlu Sunna Waljama 'a , a moderate Sufi militia . 
+
+
+--------------------------------------------------
+
+--- Example 17 ---
+Max Activation: 0.0000
+Max Token: 'Saudi'
+Windowed Text:
+i , Ethiopia , Sudan , Libya , Yemen , Saudi Arabia , Turkey , Iran , Uganda , Nigeria ,
+
+Full Text (truncated to 100 tokens):
+ A number of countries maintain foreign embassies and consulates in Mogadishu . As of January 2014 , these diplomatic missions include the embassies of Djibouti , Ethiopia , Sudan , Libya , Yemen , Saudi Arabia , Turkey , Iran , Uganda , Nigeria , the United Kingdom , Japan , China , and Qatar . Embassies that are scheduled to reopen in the city include those of Egypt , the United Arab Emirates , Italy and South Korea . 
+
+
+--------------------------------------------------
+
+--- Example 18 ---
+Max Activation: 0.0000
+Max Token: 'aw'
+Windowed Text:
+October 2014 , the firm Tawakal Money Express ( Tawakal )
+
+Full Text (truncated to 100 tokens):
+ In October 2014 , the firm Tawakal Money Express ( Tawakal ) also began construction of the seven @-@ storey Tawakal Plaza Mogadishu . The new high rise is slated to be completed by the end of 2015 , and will feature a Tawakal Global Bank customer and financial services center , a large , 338 square meter supermarket , a 46 @-@ room luxury hotel , restaurant and coffee shop facilities , and conference and event halls . In addition , the Nabaad Supermarket provides major retail service to local shoppers . Open daily until 10 pm , the convenience chain imports most of its products from the United Arab Emirates and China . The Al Buruuj firm also launched a major real estate project in January 2015 , Daru @-@ Salam City . Financed by the Salaam Somali Bank , the new urban complex includes town houses , apartment flats , a mosque , recreational areas , playgrounds , a supermarket and roads . It is slated to be erected just outside the northern part of the capital , within a 7 kilometer radius of the Industrial Road . 
+
+
+--------------------------------------------------
+
+--- Example 19 ---
+Max Activation: 0.0000
+Max Token: 'Bin'
+Windowed Text:
+at , Dayax Hotel , Safari Guesthouse and Bin Ali Hotel .
+
+Full Text (truncated to 100 tokens):
+ Other hotels in the city include the Lafweyn Palace Hotel , Amira Castle Hotel , Sahafi Hotel , Hotel Nasa @-@ Hablod , Oriental Hotel , Hotel Guuleed , Hotel Shamo , Peace Hotel , Aran Guest House , Muna Hotel , Hotel Taleex , Hotel Towfiq , Benadir Hotel , Ambassador Hotel , Kuwait Plaza Hotel , Safari Hotel Diplomat , Dayax Hotel , Safari Guesthouse and Bin Ali Hotel . 
+
+
+--------------------------------------------------
+
+--- Example 20 ---
+Max Activation: 0.0000
+Max Token: 'Saw'
+Windowed Text:
+Watchman ) . In the jungle , James " Sawyer " Ford ( Josh Holloway ) goes to
+
+Full Text (truncated to 100 tokens):
+ When Jack upsets Charlie by telling him to move his guitar , Charlie angrily shouts at him , causing the entrance of the cave they are in to collapse . Charlie manages to escape , but Jack is trapped inside . Using his construction experience , Michael Dawson ( Harold Perrineau ) leads the rescue attempt with Steve Jenkins ( Christian Bowman ) and Scott Jackson ( Dustin Watchman ) . In the jungle , James " Sawyer " Ford ( Josh Holloway ) goes to tell Kate ( who is traveling to set up her antenna for the triangulation attempt ) about Jack 's predicament , but decides against it because he doesn 't like Kate 's hostile attitude . Charlie tells Locke about Jack 's situation , but reveals the real reason for his going to Locke is to ask for his drugs a second time . Locke shows Charlie a moth cocoon , and explains that he could help the moth by slitting the cocoon and letting the moth free , but it would not survive because it would be too weak . Instead , the moth needs to struggle to break free . Nature and struggle make people stronger , Locke says , indicating to Charlie that he needs to fight through his suffering . 
+
+
+--------------------------------------------------
+

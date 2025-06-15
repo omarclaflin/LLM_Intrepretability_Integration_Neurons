@@ -1,3 +1,0 @@
-guitar
-
-EXPLANATION: These examples frequently mention guitar parts, solos, or riffs as a key element of the songs being described, suggesting the model is detecting mentions and descriptions of guitar playing in music.

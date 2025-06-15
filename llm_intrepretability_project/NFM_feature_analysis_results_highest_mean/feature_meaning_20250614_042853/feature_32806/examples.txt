@@ -1,0 +1,240 @@
+--- Example 1 ---
+Activation Score: 0.3379
+Max Token: 'Paris'
+Windowed Text:
+of settings from it . Heine , living in Paris from 1830 , always equiv
+
+Full Text (truncated to 100 tokens):
+ Meyerbeer 's relationship with Heine displays the awkwardness and prickliness of the social personae of both parties . Meyerbeer , apart from any of his personal feelings , needed Heine onside as an influential personality and writer on music . He genuinely admired Heine 's verse , and made a number of settings from it . Heine , living in Paris from 1830 , always equivocal about his loyalties between Judaism and Christianity , and always short of money , asked Meyerbeer to intervene with Heine 's own family for financial support and frequently took loans and money from Meyerbeer himself . He was not above threatening Meyerbeer with blackmail by writing satirical pieces about him ( and indeed Meyerbeer paid Heine 's widow to suppress such writings ) . And yet , at Heine 's death in 1856 , Meyerbeer wrote in his diary ' Peace be to his ashes . I forgive him from my heart for his ingratitude and many wickednesses against me.' 
+
+
+--------------------------------------------------
+
+--- Example 2 ---
+Activation Score: 0.3333
+Max Token: 'Paris'
+Windowed Text:
+During his assignment in Paris , Abu Nuwar met King Talal 's
+
+Full Text (truncated to 100 tokens):
+ During his assignment in Paris , Abu Nuwar met King Talal 's son and successor , Crown Prince Hussein , who frequently visited the city during weekend breaks from his training at the Sandhurst Military Academy . Abu Nuwar was keen to gain Hussein 's favor and disseminate to him Arab nationalist ideas calling for an end to British influence in the Jordanian military . Hussein was enthused by Abu Nuwar , and after his enthronement in May 1953 , Hussein attempted to have Abu Nuwar return to Jordan despite Glubb 's reservations . In August , Hussein visited London where he invited Abu Nuwar and other like @-@ minded officers , including Free Officer Shahir Abu Shahut , to meet with him . There , Abu Shahut informed Abu Nuwar of the Free Officers ' plans to " Arabize " the Arab Legion , i.e. remove the force 's British leadership , including Glubb . Afterward , Abu Nuwar informed Hussein at a party celebrating his enthronement that he was a leading member of the Free Officers ( though he was not ) and communicated the group 's desire to assert Arab command over the Arab Legion , an aim to which Hussein was receptive . Hussein was impressed by Abu Nuwar who vocally condemned the British presence in Jordan during the party , which earned Abu Nuwar cheers by Jordanian officers . 
+
+
+--------------------------------------------------
+
+--- Example 3 ---
+Activation Score: 0.3183
+Max Token: 'Paris'
+Windowed Text:
+on sculpture and form " , which is based in Paris , France . Meanwhile , Immortal Grayson
+
+Full Text (truncated to 100 tokens):
+ In " Band of Brothers " ( 1993 ) , Tessa is chosen as the curator of a traveling exhibition entitled " An historical retrospective on sculpture and form " , which is based in Paris , France . Meanwhile , Immortal Grayson ( James Horan ) is seeking Victor Paulus , a protegee of MacLeod 's friend Darius ( Werner Stocker ) . Tessa decides to leave to Paris before MacLeod fights Grayson and her parting words are : " Remember . Paris is our city . I 'll be waiting for you " . After MacLeod beheads Grayson , he , Tessa and Richie , live in a barge on the Seine near Notre Dame de Paris . 
+
+
+--------------------------------------------------
+
+--- Example 4 ---
+Activation Score: 0.3147
+Max Token: 'Paris'
+Windowed Text:
+Meanwhile , in Paris Meyerbeer began to seek new libretti
+
+Full Text (truncated to 100 tokens):
+ Meanwhile , in Paris Meyerbeer began to seek new libretti , initially considering Le prophète of Scribe , Le cinq mars by Henri Saint @-@ Georges and eventually settling on Scribe 's Vasco da Gama ( later to become L 'Africaine ) , which he contracted to complete by 1840 . However , Meyerbeer had envisaged that the main role in L 'Africaine would be written for Falcon ; after the catastrophic failure of her voice in 1837 , he turned instead to Le prophète . 
+
+
+--------------------------------------------------
+
+--- Example 5 ---
+Activation Score: 0.3113
+Max Token: 'Paris'
+Windowed Text:
+At the same time as his successes in Paris , Meyerbeer , as a Prussian Court
+
+Full Text (truncated to 100 tokens):
+ At the same time as his successes in Paris , Meyerbeer , as a Prussian Court Kapellmeister ( Director of Music ) from 1832 , and from 1843 as Prussian General Music Director , was also influential in opera in Berlin and throughout Germany . He was an early supporter of Richard Wagner , enabling the first production of the latter 's opera , Rienzi . He was commissioned to write the patriotic opera Ein Feldlager in Schlesien to celebrate the reopening of the Berlin Royal Opera House in 1844 and wrote music for certain Prussian state occasions . 
+
+
+--------------------------------------------------
+
+--- Example 6 ---
+Activation Score: 0.3112
+Max Token: 'Paris'
+Windowed Text:
+In Paris Meyerbeer had been asked by Louis Vé
+
+Full Text (truncated to 100 tokens):
+ In Paris Meyerbeer had been asked by Louis Véron , the director of the Opéra , for a new work . At first he attempted to persuade Véron to accept the opéra @-@ comique Le portefaix to a libretto by Scribe , which he had been contracted to compose in early 1831 ; but Véron insisted on a full five @-@ act piece . Together with Scribe , Meyerbeer reviewed many subjects before deciding , in 1832 , on Les Huguenots . The contract which Meyerbeer signed with Véron contained a penalty clause if the work was not delivered by the end of 1833 . When the time came and the opera was not ready , Véron claimed his 30 @,@ 000 francs under this clause ; Meyerbeer was perhaps unique amongst composers in being able to pay this . In fact Véron refunded the money under a further agreement , when the opera was delivered in late 1834 ; but Veron himself was replaced as director of the Opera by Henri Duponchel before Les Huguenots was premiered on 29 February 1836 . It was an immediate and immense success , its splendid staging and effects exceeding even those of Fromental Halévy 's La Juive , which had premiered the previous year . Berlioz called the score " a musical encyclopaedia " , and the singing , especially of Nourrit and Falcon , was universally praised . Les Huguenots was the first opera to be performed at the Opéra more than 1 @,@ 000 times ( the 1,000th performance being on 16 May 1906 ) and continued to be produced up to 1936 , more than a century after its premiere . Its many performances in all other of the world 's major opera houses give it a claim to being the most successful opera of the 19th century . 
+
+
+--------------------------------------------------
+
+--- Example 7 ---
+Activation Score: 0.3096
+Max Token: 'Paris'
+Windowed Text:
+and Hugh of St. Victor at the University of Paris , where in 1137 he succeeded
+
+Full Text (truncated to 100 tokens):
+ Robert was born in England , probably in about 1100 . Nothing else is known of his background . He owed his name to the place where he taught , Melun in France . Robert studied under Peter Abelard and Hugh of St. Victor at the University of Paris , where in 1137 he succeeded Abelard as a teacher in the school on Mont Ste @-@ Geneviève . John of Salisbury and William of Tyre were among his pupils in Paris . King Henry II of England 's cousin , Roger of Worcester , later the Bishop of Worcester , was another of Robert 's students . He probably also taught Thomas Becket , later Archbishop of Canterbury , although this is not certain . 
+
+
+--------------------------------------------------
+
+--- Example 8 ---
+Activation Score: 0.3092
+Max Token: 'Paris'
+Windowed Text:
+... His artistic triumph and legendary status were achieved in Paris ... but he never abandoned Prussia , especially his
+
+Full Text (truncated to 100 tokens):
+ Letellier describes Meyerbeer 's mature life as ' a tale of two cities ... His artistic triumph and legendary status were achieved in Paris ... but he never abandoned Prussia , especially his home city of Berlin ' . His wife Minna was based in Berlin ( she did not enjoy Paris ) as was his beloved mother ; and he had a series of Royal duties from the Prussian court , stemming from his appointment as Court Kapellmeister in 1832 . For these reasons his life from 1830 onwards is characterised by travel between these two centres . 
+
+
+--------------------------------------------------
+
+--- Example 9 ---
+Activation Score: 0.3084
+Max Token: 'Paris'
+Windowed Text:
+was now becoming subject to increasing sniping in Paris . In 1846 Meyerbeer
+
+Full Text (truncated to 100 tokens):
+ With the continuing delays in the production of Le prophète and L 'Africaine , Meyerbeer was now becoming subject to increasing sniping in Paris . In 1846 Meyerbeer began work on a new project with Scribe and Saint @-@ Georges , Noëma , but in the following year Pillet was sacked from the opera and the direction was resumed by Duponchel . As a consequence , Meyerbeer was at last able to stage Le prophète with a cast to his liking , ( including Viardot as Fidès ) , and it premiered on 16 April 1849 . Again Meyerbeer 's new opera was an outstanding success – despite the unusual feature of the lead female role being the hero 's mother , rather than his lover . Amongst those at the 47th performance in February 1850 was Richard Wagner , now an impoverished political exile ; the success of a work so fundamentally against his own operatic principles was one of the spurs to his spiteful anti @-@ Jewish denunciation of Meyerbeer and Mendelssohn , ' Das Judenthum in der Musik ' ( 1850 ) . 
+
+
+--------------------------------------------------
+
+--- Example 10 ---
+Activation Score: 0.3067
+Max Token: 'Paris'
+Windowed Text:
+England . He studied under Peter Abelard in Paris before teaching there and at Melun , which gave
+
+Full Text (truncated to 100 tokens):
+ Robert of Melun ( c . 1100 – 27 February 1167 ) was an English scholastic Christian theologian who taught in France , and later became Bishop of Hereford in England . He studied under Peter Abelard in Paris before teaching there and at Melun , which gave him his surname . His students included John of Salisbury , Roger of Worcester , William of Tyre , and possibly Thomas Becket . Robert was involved in the Council of Reims in 1148 , which condemned the teachings of Gilbert de la Porrée . Three of his theological works survive , and show him to have been strictly orthodox . 
+
+
+--------------------------------------------------
+
+--- Example 11 ---
+Activation Score: 0.3017
+Max Token: 'Paris'
+Windowed Text:
+artist and conducting tours of the River Seine in Paris . In May 1980 , to
+
+Full Text (truncated to 100 tokens):
+ Tessa 's first encounter with MacLeod is shown in a flashback sequence in " For Evil 's Sake " . She had recently left the Sorbonne and was working as an artist and conducting tours of the River Seine in Paris . In May 1980 , to escape Immortal Christoph Kuyler ( Peter Howitt ) who was trying to behead him , MacLeod jumped on a Bateau Mouche on which Tessa was working , and charmed her so that he could stay on board . Another flashback scene in the episode " Counterfeit Part Two " shows how MacLeod revealed his immortality to Tessa . On April 1 , 1983 , MacLeod made Tessa shoot him in the chest with a pistol . After he revived , MacLeod revealed himself to be an Immortal who could not age or father children , but did not mention the Game . MacLeod expected Tessa to show disgust or fear , but instead Tessa expressed compassion and sadness for his loneliness . As Tessa remains unaware of the Game , MacLeod occasionally fights other Immortals without her knowledge . 
+
+
+--------------------------------------------------
+
+--- Example 12 ---
+Activation Score: 0.3005
+Max Token: 'Paris'
+Windowed Text:
+bner notes a continuing tradition of operas at Paris where ' principals appear with chorus at the end
+
+Full Text (truncated to 100 tokens):
+ Meyerbeer had no pupils and no direct ' school ' . Yet as his works spanned the golden age of grand opera , clear traces of his influence can be found in the grand operas of Fromental Halévy , Gaetano Donizetti , Giuseppe Verdi and others . After 1850 , Huebner notes a continuing tradition of operas at Paris where ' principals appear with chorus at the end of an act and where private intrigue conjoins a well @-@ articulated public dimension in the plot ' and cites amongst others Charles Gounod 's La nonne sanglante ( 1854 ) , Ambroise Thomas 's Hamlet and operas by Jules Massenet , amongst them Le roi de Lahore ( 1877 ) and Le Cid ( 1885 ) . The line of succession was however virtually washed away in the tide of Wagner in Paris after 1890 ( see below ) . The influence of Meyerbeer has also been detected in the operas of Antonín Dvořák and other Czech composers , and in the operas of Russian composers including Rimsky @-@ Korsakov and the young Tchaikovsky , who thought Les Huguenots ' one of the greatest works in the repertoire ' . 
+
+
+--------------------------------------------------
+
+--- Example 13 ---
+Activation Score: 0.2989
+Max Token: 'Paris'
+Windowed Text:
+Meyerbeer died in Paris on 2 May 1864 .
+
+Full Text (truncated to 100 tokens):
+ Meyerbeer died in Paris on 2 May 1864 . Rossini , who , not having heard the news , came to his apartment the next day intending to meet him , was shocked and fainted . He was moved to write on the spot a choral tribute ( Pleure , pleure , muse sublime ! ) . A special train bore Meyerbeer 's body from the Gare du Nord to Berlin on 6 May , where he was buried in the family vault at the Jewish cemetery in Schönhauser Allee . 
+
+
+--------------------------------------------------
+
+--- Example 14 ---
+Activation Score: 0.2986
+Max Token: 'Paris'
+Windowed Text:
+42 to direct a school , but returned to Paris in 1147 . He took part
+
+Full Text (truncated to 100 tokens):
+ Robert went to Melun in 1142 to direct a school , but returned to Paris in 1147 . He took part in the condemnation of Gilbert de la Porrée at the Council of Rheims in 1148 , working with Peter Lombard to secure Porrée 's recantation . A small consistory court was held after the ending of the council 's deliberations , and was attended by Bernard of Clairvaux and Suger of St Denis , along with Robert and Peter . This court forced Porrée to repudiate his views on the Trinity . A fellow scholar , Herbert of Bosham , described Robert as a great teacher , who " sent forth from himself , like rays of his light , a great and learned host of students " . 
+
+
+--------------------------------------------------
+
+--- Example 15 ---
+Activation Score: 0.2984
+Max Token: 'Paris'
+Windowed Text:
+and Germain Delavigne ) , produced in Paris in 1831 , was one of
+
+Full Text (truncated to 100 tokens):
+ With his next opera Meyerbeer became virtually a superstar . Robert le diable ( with libretto by Eugène Scribe and Germain Delavigne ) , produced in Paris in 1831 , was one of the earliest grand operas . The libretto , originally planned in 1827 as a three @-@ act opéra comique for the Opéra @-@ Comique theatre , was refashioned after 1829 in a five @-@ act form to meet the requirements of the Paris Opéra . Its revised characterisation as a ' grand opera ' placed it in succession to Auber 's La muette de Portici ( 1828 ) and Rossini 's Guillaume Tell ( 1829 ) in this new genre . The composer undertook further work on the opera in early 1831 adding ballet episodes , including the " Ballet of Nuns " , which was to prove one of the opera 's great sensations , becoming an early example of the ballet blanc genre . He also rewrote the two major male roles of Bertrand and Robert to suit the talents of Nicolas Levasseur and Adolphe Nourrit , respectively . At the invitation of Nourrit , Cornélie Falcon made her debut at the age of 18 at the Opéra in the role of Alice on 20 July 1832 , and she made a vivid impression on the public , which included on that night Auber , Berlioz , Halévy , Maria Malibran , Giulia Grisi , Honoré Daumier , Alexandre Dumas and Victor Hugo . On hearing her in the role , Meyerbeer himself declared his opera at last ' complete ' . 
+
+
+--------------------------------------------------
+
+--- Example 16 ---
+Activation Score: 0.2975
+Max Token: 'Paris'
+Windowed Text:
+time with Richard Wagner , who was en route to Paris . Their ensuing relationship ( see below ) was
+
+Full Text (truncated to 100 tokens):
+ On 20 August 1839 Meyerbeer , whilst relaxing at Boulogne in the company of Moscheles , met for the first time with Richard Wagner , who was en route to Paris . Their ensuing relationship ( see below ) was to have major repercussions for the careers and reputations of both . At this meeting Wagner read to Meyerbeer from the libretto of Rienzi , and Meyerbeer agreed to look through the score , which indeed he subsequently recommended for performance at Dresden . 
+
+
+--------------------------------------------------
+
+--- Example 17 ---
+Activation Score: 0.2964
+Max Token: 'Paris'
+Windowed Text:
+stage productions in Europe , and Betterton travelled to Paris in the summer of 1671 to
+
+Full Text (truncated to 100 tokens):
+ The machines at Dorset Garden and several of the most flamboyant production concepts realised through them were strongly influenced by the French opera and tragédie en machines . Paris was home to the most elaborate visual and musical stage productions in Europe , and Betterton travelled to Paris in the summer of 1671 to learn from the sensation of the season , the comédie @-@ ballet Psyché by Molière , Corneille , and Quinault , to music by Lully . " For several things concerning the decoration of the play , I am obliged to the French " , acknowledged Thomas Shadwell in the introduction to his own Psyche in 1674 . Even more directly influential were the French operatic visits to London , which sparked off a new interest in opera proper in London audiences . In a brilliant move , the King 's Company , all but bankrupt after the crushing blow of the fire in Bridges Street , invited the French musician Robert Cambert to perform his opera Ariadne as one of the first productions at their new playhouse in Drury Lane . The Duke 's Company responded to the visual gorgeousness of this guest appearance with a Shakespearean extravaganza at Dorset Garden : Shadwell 's adaptation of Davenant 's and Dryden 's version of Shakespeare 's Tempest , a piece designed to show off the new machinery : 
+
+
+--------------------------------------------------
+
+--- Example 18 ---
+Activation Score: 0.2964
+Max Token: 'Paris'
+Windowed Text:
+She was born in Paris and moved with her family to Washington , DC ,
+
+Full Text (truncated to 100 tokens):
+ She was born in Paris and moved with her family to Washington , DC , in 1966 . As a child , Smith was often teased because of her voice . She became a professional actress in 1982 after graduating from drama school and moved to New York City in 1984 , where she appeared in the Broadway production of Tom Stoppard 's The Real Thing . She made her film debut in 1985 's Heaven Help Us , followed by roles in The Legend of Billie Jean and Maximum Overdrive . She moved to Los Angeles in 1986 and received a recurring role in the television series Brothers . In 1987 , she auditioned for a role in a series of animated shorts about the Simpson family on The Tracey Ullman Show . Smith intended to audition for the role of Bart Simpson , but the casting director felt her voice was too high , so she was assigned the role of Lisa , instead . She voiced Lisa for three seasons on The Tracey Ullman Show , and in 1989 , the shorts were spun off into their own half @-@ hour show , The Simpsons . For her work as the character , Smith received a Primetime Emmy Award for Outstanding Voice @-@ Over Performance in 1992 . 
+
+
+--------------------------------------------------
+
+--- Example 19 ---
+Activation Score: 0.2950
+Max Token: 'Paris'
+Windowed Text:
+the sophisticated and technologically advanced stages of London and Paris , for which it was extensively rewritten . Meyer
+
+Full Text (truncated to 100 tokens):
+ The first signs of Meyerbeer breaking with the Italian traditions in which he had trained are in Il crociato in Egitto . Amongst other notable features of the opera were its lavish orchestral forces ( extending to two onstage military bands in the final act ) . The grandiosity of the work reflected the need to make an impact on the sophisticated and technologically advanced stages of London and Paris , for which it was extensively rewritten . Meyerbeer 's contribution was revealed at this stage to be the combination of Italian vocal lines , German orchestration and harmony , and the use of contemporary theatrical techniques , ideas which he carried forward in Robert and his later works . However Meyerbeer 's background in the Italian operatic traditions can be clearly seen as late as 1859 in the ' mad scene ' in Dinorah ( the virtuoso aria Ombre légère ) . 
+
+
+--------------------------------------------------
+
+--- Example 20 ---
+Activation Score: 0.2942
+Max Token: 'Paris'
+Windowed Text:
+After teaching as a master of arts in Paris for over forty years , Robert was recalled to England
+
+Full Text (truncated to 100 tokens):
+ After teaching as a master of arts in Paris for over forty years , Robert was recalled to England by King Henry II in 1160 , and was appointed Bishop of Hereford in 1163 . He was consecrated at Canterbury on 22 December by Archbishop Thomas Becket . Becket had been prominent among those recommending Robert for the vacancy at Hereford ; one of Becket 's later biographers said that Becket urged the king to find benefices for Englishmen living abroad . There is some evidence that Pope Alexander III had a hand in Robert 's election , as Becket in 1166 reminded Robert and Roger of Worcester that they both owed their episcopates to Alexander . 
+
+
+--------------------------------------------------
+

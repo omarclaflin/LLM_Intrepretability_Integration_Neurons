@@ -1,3 +1,0 @@
-2
-
-EXPLANATION: The examples consistently mention the number "2" or a concept related to "two", suggesting that the model is detecting references to the quantity or concept of "2".

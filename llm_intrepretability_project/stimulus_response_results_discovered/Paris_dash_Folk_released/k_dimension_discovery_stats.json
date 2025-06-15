@@ -1,0 +1,10 @@
+{
+  "max_combined_k": 16,
+  "max_combined_weight": 0.4345817565917969,
+  "max_diff_k": 96,
+  "max_diff_value": 0.1204783171415329,
+  "cat1_mean_weight_diff": 0.0528920516371727,
+  "cat2_mean_weight_diff": -0.0675862655043602,
+  "max_var_k": 21,
+  "max_var_value": 0.007991763763129711
+}

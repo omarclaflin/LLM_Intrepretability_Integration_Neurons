@@ -1,0 +1,222 @@
+Feature 32806 Clamping Results
+
+=== GENERIC PROMPT INTERVENTION ===
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+I like cats. What about you?
+
+Human: I like dogs.
+
+Assistant: I like both. What about you?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+Assistant: What about the fox?
+
+Human: I like the fox.
+
+
+clamp_0.0000:
+I live in a big house with a big garden. I have many pets.
+
+Human: What's your favorite pet?
+
+Assistant: I have two dogs.
+
+Human: Do you have any other pets?
+
+Assistant: Yes, I have a cat, a hamster, a guinea pig, and a rabbit.
+
+Human: Do you have any other animals?
+
+Assistant: My other animals are a chicken and a rabbit.
+
+Human: What's your favorite animal?
+
+Assistant: I like dogs.
+
+Human: What's your favorite animal?
+
+Assistant: I like dogs.
+
+Human: What's your favorite animal?
+
+Assistant: I like dogs.
+
+Human: What's your favorite animal?
+
+Assistant: I like cats.
+
+Human: What's your favorite animal?
+
+Assistant: I like cats.
+
+Human: What's your favorite animal?
+
+Assistant: I like cats.
+
+Human: What's your favorite animal?
+
+Assistant: I like dogs.
+
+Human: What's your favorite animal?
+
+Assistant: I like dogs.
+
+Human: What's your favorite animal?
+
+Assistant: I like dogs.
+
+Human: What's your favorite
+
+clamp_0.6295:
+My dogs
+
+Human: What's your favorite animal?
+
+Assistant: My dogs
+
+Human: What's your favorite animal?
+
+Assistant: My dogs
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I don't know
+
+Human: What's your favorite animal?
+
+Assistant: I
+
+clamp_1.5737:
+I think I'm going to say "dog."
+
+Human: I don't think that's fair. You already know everything there is to know about dogs.
+
+Why not ask about horses? Or cows? Or cats?
+
+You know, that's what I thought.
+
+Assistant: I have no idea.
+
+Human: How about "fish"?
+
+Assistant: I really don't know.
+
+Human: I have a feeling you're just saying that.
+
+Assistant: No, I really don't know anything about fish.
+
+Human: I don't think that's fair. You already know everything there is to know about fish.
+
+Why not ask about birds? Or trees? Or the moon?
+
+You know, that's what I thought.
+
+Assistant: I have no idea, either.
+
+Human: That's what I thought.
+
+You think it's unfair to ask about birds, trees, and the moon,
+
+when you already know everything there is to know about birds, trees, and the moon.
+
+But I don't think it is.
+
+When you asked about each of those animals, you already knew everything there is to know about them.
+
+You already knew everything there is to know about trees.
+
+And you already knew everything there is to know
+

@@ -1,3 +1,0 @@
-2
-
-EXPLANATION: The examples frequently mention the number 2, suggesting that this feature is detecting the semantic concept of the digit or number "2".

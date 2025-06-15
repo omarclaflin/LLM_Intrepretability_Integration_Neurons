@@ -1,2 +1,0 @@
-Switzerland
-The examples frequently mention Switzerland, suggesting that the semantic concept being detected is related to Switzerland or Swiss entities.

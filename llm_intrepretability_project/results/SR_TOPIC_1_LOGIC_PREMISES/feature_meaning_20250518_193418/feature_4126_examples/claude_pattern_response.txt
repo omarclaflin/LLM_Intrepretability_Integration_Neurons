@@ -1,3 +1,0 @@
-2
-
-EXPLANATION: The examples consistently mention the number "2" in various contexts, suggesting that the semantic concept or pattern being detected is the presence of the digit "2" in the text.

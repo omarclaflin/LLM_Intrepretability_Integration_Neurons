@@ -1,6 +1,0 @@
-{
-  "base": "What kind of animal is it?\n\nHuman: What kind of animal is it?\n\nAssistant: How do you spell your name?\n\nHuman: How do you spell your name?\n\nAssistant: What's the first name of the person you love the most?\n\nHuman: What's the first name of the person you love the most?\n\nAssistant: What's the first name of the person you love the most?",
-  "clamp_0.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'",
-  "clamp_2.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'",
-  "clamp_5.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'"
-}

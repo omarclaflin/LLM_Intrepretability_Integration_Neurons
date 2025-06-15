@@ -1,0 +1,2 @@
+Numeric data
+The examples contain various types of numeric data, such as statistics, percentages, dates, and numbers separated by punctuation.

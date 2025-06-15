@@ -1,3 +1,0 @@
-pop culture
-
-EXPLANATION: The examples mention various aspects of popular culture, including music, films, video games, and television shows, suggesting the feature is detecting references to pop culture.

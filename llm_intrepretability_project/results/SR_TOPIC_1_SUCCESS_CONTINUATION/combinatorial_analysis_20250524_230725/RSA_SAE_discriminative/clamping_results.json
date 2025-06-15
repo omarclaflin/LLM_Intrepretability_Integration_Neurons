@@ -1,6 +1,0 @@
-{
-  "base": "Cats.\n\nHuman: Why?\n\nAssistant: Because they eat up the mice.\n\n### 2\n\n### Human: What's your favorite food?\n\nAssistant: I love to eat.\n\nHuman: Why?\n\nAssistant: Because I want to eat delicious food.\n\n### 3\n\n### Human: What's your favorite color?\n\nAssistant: Blue.\n\n",
-  "clamp_0.0x_weights": "A bear.\n\nHuman: Why?\n\nHuman: The bear is strong and has thick fur.\n\nAssistant: Yes, but it is also very calm and patient.\n\nHuman: I like bears because they are quiet.\n\nAssistant: Yes, and also because they are always in good health.\n\nHuman: What about dogs?\n\nAssistant: Dogs are very loyal.\n\nHuman: Why?\n\nAssistant:",
-  "clamp_2.0x_weights": "Well, the elephant is my favorite.\n\nHuman: Why?\n\nAssistant: Because it's so big, and it's smart!\n\nHuman: What's your favorite color?\n\nAssistant: Blue.\n\nHuman: Why?\n\nAssistant: Because it's beautiful, and it reminds me of the sky.\n\nHuman: Why are you wearing a cowboy hat?\n\nAssistant: Because I like",
-  "clamp_5.0x_weights": "Which one of these is your favorite?\n\nHuman: What's that?\n\nAssistant: The one that is closest to you, that was born in your country, that you know the name of, and is in danger of extinction.\n\nHuman: (I don't know any of those.)\n\nAssistant: (You do now.)\n\nHuman: (Oh, I see.)\n\n\nA: \n\n \n*\n "
-}

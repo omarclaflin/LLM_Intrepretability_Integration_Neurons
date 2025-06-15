@@ -1,3 +1,0 @@
-Ranking
-
-EXPLANATION: The examples seem to focus on ranking or comparing things based on metrics like sales, ratings, or records, suggesting the semantic concept being detected is related to ranking or relative performance.

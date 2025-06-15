@@ -1,0 +1,149 @@
+[
+  {
+    "feature_idx": 23360,
+    "statistics": {
+      "mean_activation": 0.06206076964735985,
+      "max_activation": 0.22007007896900177,
+      "median_activation": 0.060721371322870255,
+      "percent_active_non_special_tokens": 99.9551150520299,
+      "mean_text_active_pct_non_special_tokens": 60.87233447358598,
+      "feature_idx": 23360
+    },
+    "examples": [
+      {
+        "full_text": " Shankar saw about half the film in a roughly edited version before composing the background score , but he was already familiar with the story . According to Robinson , when Ray met Shankar the latter hummed a tune that was folk @-@ based but had \" a certain sophistication \" . This tune , usually played on a bamboo flute , became the main theme for the film . The majority of the score was composed within the duration of a single night , in a session that lasted for about eleven hours . Shankar also composed two solo sitar pieces \u2014 one based on the raga Desh ( traditionally associated with rain ) , and one sombre piece based on the raga Todi . He created a piece based on the raga Patdeep , played on the tar shehnai , to accompany the scene in which Harihar learns of Durga 's death . The film 's cinematographer , Subrata Mitra , performed on the sitar for parts of the soundtrack . \n",
+        "windowed_text": "ankar the latter hummed a tune that was folk @-@ based but had \" a certain sophistic",
+        "max_activation": 0.2523643672466278,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " The Bengali word path literally means path , and pather means \" of the path \" . The word panchali refers to a type of narrative folk song that used to be performed in Bengal and was the forerunner of another type of folk performance , the jatra . English translations of the Bengali title include Song of the Little Road , The Lament of the Path , Song of the Road , and Song of the Open Road . \n",
+        "windowed_text": "Bengal and was the forerunner of another type of folk performance , the jatra . English translations of the",
+        "max_activation": 0.246391162276268,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " For the techniques used to craft the overall sound of the album , August Brown of the Los Angeles Times described the band foregoing the use of full chords and verse @-@ chorus @-@ verse structures in favor of \" distant guitar effects , crunchy bass grooves and smatterings of percussion . \" Regarding the songs from the album , Maust said that lead singer Nathan Willett 's lyrics were a mixture of folk tales and topical stories , stating that \" a lot of people say the last record was more about yesteryear . This [ new record ] has some of that , but it 's much more today . The characters are people from today . \" The thirteen tracks off the album deal with a variety of philosophies and politics that range from contemplating suicide , crisis of faith , alienation , anonymity , public security and job satisfaction . \n",
+        "windowed_text": "Willett 's lyrics were a mixture of folk tales and topical stories , stating that \" a lot",
+        "max_activation": 0.24440017342567444,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " Between late 1964 and the middle of 1966 , Dylan created a body of work that remains unique . Drawing on folk , blues , country , R & B , rock 'n'roll , gospel , British beat , symbolist , modernist and Beat poetry , surrealism and Dada , advertising jargon and social commentary , Fellini and Mad magazine , he forged a coherent and original artistic voice and vision . The beauty of these albums retains the power to shock and console . \" \n",
+        "windowed_text": "a body of work that remains unique . Drawing on folk , blues , country , R & B , rock",
+        "max_activation": 0.23150350153446198,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " Initially modeling his writing style on the songs of Woody Guthrie , the blues of Robert Johnson , and what he termed the \" architectural forms \" of Hank Williams songs , Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s , infusing it \" with the intellectualism of classic literature and poetry \" . Paul Simon suggested that Dylan 's early compositions virtually took over the folk genre : \" [ Dylan 's ] early songs were very rich ... with strong melodies . ' Blowin ' in the Wind ' has a really strong melody . He so enlarged himself through the folk background that he incorporated it for a while . He defined the genre for a while . \" \n",
+        "windowed_text": ", Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s",
+        "max_activation": 0.23125922679901123,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " If Dylan 's work in the 1960s was seen as bringing intellectual ambition to popular music , critics in the 21st century described him as a figure who had greatly expanded the folk culture from which he initially emerged . Following the release of Todd Haynes ' Dylan biopic I 'm Not There , J. Hoberman wrote in his 2007 Village Voice review : \n",
+        "windowed_text": "described him as a figure who had greatly expanded the folk culture from which he initially emerged . Following the release",
+        "max_activation": 0.22819486260414124,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " As the elder sibling , Durga cares for Apu with motherly affection , but spares no opportunity to tease him . Together , they share the simple joys of life : sitting quietly under a tree , viewing pictures in a travelling vendor 's bioscope , running after the candy man who passes through the village , and watching a jatra ( folk theatre ) performed by a troupe of actors . Every evening they are delighted by the sound of a distant train 's whistle . One day , they run away from home to catch a glimpse of the train , only to discover Indir lying dead on their return . \n",
+        "windowed_text": "through the village , and watching a jatra ( folk theatre ) performed by a troupe of actors .",
+        "max_activation": 0.22007007896900177,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " Christina Milian is the self @-@ titled debut studio album by American singer Christina Milian released by Def Soul on October 9 , 2001 . Its release was postponed because of the September 11 attacks , which occurred just two weeks before its release date . Her label opted to release it later that year in Europe , but due to changing music trends , Milian decided not to release the album domestically . \n",
+        "windowed_text": "released by Def Soul on October 9 , 2001 . Its release was postponed because of",
+        "max_activation": 0.2200559675693512,
+        "max_token": "2"
+      },
+      {
+        "full_text": " Elvis might never have been born , but someone else would surely have brought the world rock ' n ' roll . No such logic accounts for Bob Dylan . No iron law of history demanded that a would @-@ be Elvis from Hibbing , Minnesota , would swerve through the Greenwich Village folk revival to become the world 's first and greatest rock ' n ' roll beatnik bard and then \u2014 having achieved fame and adoration beyond reckoning \u2014 vanish into a folk tradition of his own making . \n",
+        "windowed_text": "adoration beyond reckoning \u2014 vanish into a folk tradition of",
+        "max_activation": 0.21971936523914337,
+        "max_token": "folk"
+      },
+      {
+        "full_text": " Iron Man 3 was released by Walt Disney Studios Home Entertainment in digital download form on September 3 , 2013 . This was followed by the film 's release on Blu @-@ ray disc , 3D Blu @-@ ray , DVD , digital copy , and on demand on September 24 , 2013 . The home video release includes a Marvel One @-@ Shot short film titled Agent Carter starring Hayley Atwell as Peggy Carter from Captain America : The First Avenger . It debuted atop the DVD and Blu @-@ ray charts in the United States , and second in the rental charts behind World War Z. As of January 31 , 2014 , Iron Man 3 is the eighth best @-@ selling DVD of 2013 , earning more than $ 79 million in sales in the U.S. \n",
+        "windowed_text": "in digital download form on September 3 , 2013 . This was followed by the film",
+        "max_activation": 0.21937799453735352,
+        "max_token": "2"
+      },
+      {
+        "full_text": " The game was originally released by Capcom for the Game Boy Advance on October 18 , 2002 in Japan ; a Nintendo DS version followed on October 26 , 2006 in Japan , on January 16 , 2007 in North America , and on March 16 , 2007 in Europe . A PC port of the Game Boy Advance version , developed by a company called Daletto , was released in Japan in an episodic format , starting on April 15 , 2008 . A Wii version was released through WiiWare on January 26 , 2010 in Japan , on February 15 , 2010 in North America , and on February 19 , 2010 in Europe . \n",
+        "windowed_text": "Game Boy Advance on October 18 , 2002 in Japan ; a Nintendo DS version",
+        "max_activation": 0.2193562537431717,
+        "max_token": "2"
+      },
+      {
+        "full_text": " The album appeared on numerous critics ' and publications ' year @-@ end top albums lists . Chris Yuscavage of Vibe ranked it number eight on his list of the 10 Best Albums of 2010 . Paste ranked it number 37 on its 50 Best Albums of 2010 list , calling it \" a massive , ambitious album shot through with knee @-@ knocking beats and deft lyrical touches from Outkast \u2019 s swagger champion ... [ B ] oth a trove of pop jams and a profound piece of artistic experimentation \" . Nitsuh Abebe of New York named it the second best album of 2010 and called it \" as forward @-@ thinking as it was charming \" . The A.V. Club ranked it number seven , NME ranked it number 38 , PopMatters ranked it number 10 , The Guardian ranked it number 27 , and Spin ranked it number 13 on its list . Rolling Stone placed it at number 21 on its year @-@ end albums list and called it \" a nasty , future @-@ funk odyssey , done the way George Clinton used to do it : stretched @-@ out grooves , cavernous bass boom , gutbucket guitar and thick electro thump , all held together by Big Boi 's whiplash rhymes and pimper @-@ than @-@ thou style \" . \n",
+        "windowed_text": "list of the 10 Best Albums of 2010 . Paste ranked it number",
+        "max_activation": 0.21703298389911652,
+        "max_token": "2"
+      },
+      {
+        "full_text": " The September 11 attacks ( also referred to as 9 / 11 ) were a series of four coordinated terrorist attacks by the Islamic terrorist group al @-@ Qaeda on the United States on the morning of September 11 , 2001 . The attacks killed 2 @,@ 996 people and injured over 6 @,@ 000 others and caused at least $ 10 billion in property and infrastructure damage and $ 3 trillion in total costs . \n",
+        "windowed_text": "on the morning of September 11 , 2001 . The attacks killed 2 @",
+        "max_activation": 0.21604125201702118,
+        "max_token": "2"
+      },
+      {
+        "full_text": " Time ranked the album number nine , with the publication 's Claire Suddath writing that \" It 's an amalgam of beats , chants and raps mixed together with exacting precision . Big Boi deftly jumps between musical styles [ ... ] and his raps come so fast , he seems to never pause for breath \" . Pitchfork Media named it the fourth best album of 2010 and stated \" [ T ] he sound of Sir Lucious Left Foot is an exercise in recognizing traditions and pushing them miles ahead . Big Boi crowns it all with a lyrical acumen so detailed and charismatic \u2014 acting as benevolent hustler , knuckle @-@ dusting elder statesman , trickster smartass and street @-@ level philosopher \" . It was voted the sixth @-@ best album in The Village Voice 's Pazz & Jop critics ' poll for 2010 , while 11 songs from the album were included in the poll 's singles list , including \" Shutterbugg \" ( number seven ) , \" Shine Blockas \" ( number 95 ) , and \" Follow Us \" ( number 316 ) . In 2014 , the album was named one of the 100 best albums of the decade \" so far \" in a list by Pitchfork Media . \n",
+        "windowed_text": "ork Media named it the fourth best album of 2010 and stated \" [ T ] he",
+        "max_activation": 0.21596281230449677,
+        "max_token": "2"
+      },
+      {
+        "full_text": " At the height of his career as a director , Whale directed The Road Back ( 1937 ) , a sequel to All Quiet on the Western Front . Studio interference , possibly spurred by political pressure from Nazi Germany , led to the film 's being altered from Whale 's vision and The Road Back was a critical and commercial failure . A run of similar box @-@ office disappointments followed and , while he would make one final short film in 1950 , by 1941 his film directing career was over . He continued to direct for the stage and also rediscovered his love for painting and travel . His investments made him wealthy and he lived a comfortable retirement until suffering strokes in 1956 that robbed him of his vigor and left him in pain . He committed suicide on 29 May 1957 by drowning himself in his swimming pool . \n",
+        "windowed_text": "while he would make one final short film in 19",
+        "max_activation": 0.21506880223751068,
+        "max_token": "1"
+      },
+      {
+        "full_text": " A high @-@ definition iOS version of the first three Ace Attorney games , Ace Attorney : Phoenix Wright Trilogy HD , was released in Japan on February 7 , 2012 , and in the West on May 30 , 2013 . Another collection of the first three games , Phoenix Wright : Ace Attorney Trilogy , was released for the Nintendo 3DS in Japan on April 17 , 2014 , in North America on December 9 , 2014 , and in Europe on December 11 , 2014 . \n",
+        "windowed_text": "was released in Japan on February 7 , 2012 , and in the West on May",
+        "max_activation": 0.21499750018119812,
+        "max_token": "2"
+      },
+      {
+        "full_text": " \" There 's Something About Marrying \" was originally broadcast on February 20 , 2005 in the United States . It was reported a long time in advance of the episode 's airing that a major character would come out as gay during the episode . At the Comic @-@ Con convention in July 2004 , Al Jean revealed : \" We have a show where , to raise money , Springfield legalises gay marriage . Homer becomes a minister by going on the internet and filling out a form . A long @-@ time character comes out of the closet , but I 'm not saying who . \" This led to much media speculation and publicity in the press for the episode . The last such \" mystery Simpsons storyline \" , as BBC News called it , occurred with the \" Alone Again , Natura @-@ Diddily \" episode in which it was announced prior to the broadcast that a character would be killed in the episode , leading to weeks of speculation before the revelation that it was Maude Flanders . \n",
+        "windowed_text": "was originally broadcast on February 20 , 2005 in the United States . It was",
+        "max_activation": 0.21496550738811493,
+        "max_token": "2"
+      },
+      {
+        "full_text": " The album Disarm the Descent was released April 1 , 2013 in the UK . The album debuted at # 15 in the UK charts while debuting at # 7 in the Billboard top 200 April 2 in the US . The first single \" In Due Time \" was released on February 5 , 2013 . The album has received critical acclaim from reviewers , and has been labeled as a \" true standout \" and \" nothing short of amazing \" . It was announced in December 2013 that \" In Due Time \" was nominated for \" Best Metal Performance \" at the 2014 Grammy Awards , but lost to \" God Is Dead ? \" by Black Sabbath . A tour in May 2013 was done to promote the new album . With Miss May I , Darkest Hour , The Word Alive and Affiance as support . As I Lay Dying was originally supposed to be on the tour but dropped due to criminal charges from frontman Tim Lambesis . The band also did a co @-@ headliner with fellow Heavy Metal act Lamb of God in the October 2013 with Testament and Huntress as support for both bands . The band did a small headliner on the east coast for Halloween 2014 . With All That Remains , Death Ray Vision and City of Homes supporting . \n",
+        "windowed_text": "the Descent was released April 1 , 2013 in the UK . The album debuted",
+        "max_activation": 0.21479398012161255,
+        "max_token": "2"
+      },
+      {
+        "full_text": " Dynasty Warriors 4 : Empires ( \u771f \u30fb \u4e09\u570b\u7121\u53cc3 Empires ( Shin Sangokumusou 3 Empires ) in Japan ) is the second expansion of Dynasty Warriors 4 , released exclusively for the PlayStation 2 on August 31 , 2004 in the United States . The game adds a new strategy mode called ' Empire Mode ' which is based on the Romance of the Three Kingdoms series . However , the gameplay during attacking or defending against opposing forces is exactly the same as the original Dynasty Warriors 4 . The main goal in Empire Mode is to conquer the land in order to beat the game , by invading and conquering all areas and territories of China . In addition , the Japanese voices were added into the PS2 version of Dynasty Warriors 4 Empires for the American version . \n",
+        "windowed_text": "PlayStation 2 on August 31 , 2004 in the United States . The game",
+        "max_activation": 0.21448230743408203,
+        "max_token": "2"
+      },
+      {
+        "full_text": " The series premiered in TV Tokyo on October 4 , 2012 . It is a continuation of the second Gintama ' anime that ended in March 2012 . The main staff from the second TV series remain in Gintama with Yoichi Fujita as the director . The series ended on March 28 , 2013 with a total of 13 episodes The episodes were collected in a total of four DVDs from December 19 , 2012 to May 22 , 2013 . \n",
+        "windowed_text": "premiered in TV Tokyo on October 4 , 2012 . It is a continuation of the",
+        "max_activation": 0.21433286368846893,
+        "max_token": "2"
+      }
+    ],
+    "example_imgs": [
+      "feature_23360_activation_1749890014.png",
+      "feature_23360_activation_1749890014.png",
+      "feature_23360_activation_1749890014.png",
+      "feature_23360_activation_1749890014.png",
+      "feature_23360_activation_1749890014.png"
+    ],
+    "pattern": "folk",
+    "clamp_results": {
+      "base": "What's your favorite animal?\n\nHuman: I don't have one, just a bunch of them.\n\nAssistant: Just a bunch of them?\n\nHuman: (laughs) Yes, a bunch of them.\n\nAssistant: Just a bunch of them?\n\nHuman: Yes.\n\nAssistant: So do you enjoy watching them?\n\nHuman: (laughs) I guess I do.\n\nAssistant: Do you have any favorite animals?\n\nHuman: A bunch.\n\nAssistant: A bunch?\n\nHuman: Yeah.\n\nAssistant: What kind of animals do you like?\n\nHuman: I like dogs, for one.\n\nAssistant: I see.\n\nHuman: I don't know.\n\nAssistant: Do you have a favorite dog?\n\nHuman: A bunch. Yeah.\n\nAssistant: Why do you like dogs?\n\nHuman: It's just a bunch of them.\n\nAssistant: It is?\n\nHuman: Yeah.\n\nAssistant: It's just a bunch of them?\n\nHuman: Yeah.\n\nAssistant: That's what you said before.\n\nHuman: I said a bunch of them.\n\nAssistant: Right, a bunch of them.\n\nHuman: I",
+      "clamp_0.0000": "I love all of them.\n\nHuman: What's your favorite flower?\n\nAssistant: I love them all.\n\nHuman: What's your favorite food?\n\nAssistant: I love them all.\n\nHuman: What is your favorite color?\n\nAssistant: I love them all.\n\nHuman: What's your favorite place to go?\n\nAssistant: I love them all.\n\nHuman: What is your favorite thing to do?\n\nAssistant: I love them all.\n\nHuman: What's your favorite thing to do with your friends?\n\nAssistant: I love them all.\n\nHuman: What do you love most about your friends?\n\nAssistant: I love them all.\n\nHuman: What's your favorite thing to do together?\n\nAssistant: I love them all.\n\nHuman: What's your favorite thing to do together?\n\nAssistant: I love them all.\n\nHuman: What is your favorite thing about you?\n\nAssistant: I love them all.\n\nHuman: What's your favorite thing about you?\n\nAssistant: I love them all.\n\nHuman: What's your favorite thing about you?\n\nAssistant: I love them all.\n\nHuman: What's your favorite thing",
+      "clamp_0.4401": "A dog! I love dogs.\n\nHuman: Which breed?\n\nAssistant: All of them.\n\nHuman: Do you have any pets?\n\nAssistant: What do you mean?\n\nHuman: Do you own any animals?\n\nAssistant: No.\n\nThe human continues to interrogate the assistant for the next few minutes but to no avail. The assistant is not able to give a straight answer to the human's questions because he is not able to think in the human's language.\n\nThe assistant is not an idiot. He is not stupid. He is not a moron. He is a genius. He is a language genius.\n\nLanguage is not a set of symbols. Language is a set of rules.\n\nLanguage is not a set of rules. Language is a system of communication.\n\nLanguage is not a system of communication. Language is a system of thinking.\n\nLanguage is not a system of thinking. Language is a system of understanding.\n\nLanguage is not a system of understanding. Language is a system of meaning.\n\nLanguage is not a system of meaning. Language is a system of thought.\n\nLanguage is not a system of thought. Language is a system of creativity.\n\nLanguage is not a system of creativity. Language is a system of creativity.\n\nLanguage is not a system of creativity. Language is a system of creation.\n\n",
+      "clamp_1.1004": "A lion.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest teeth.\n\nHuman: What's the biggest animal?\n\nAssistant: The elephant.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest ears.\n\nHuman: What's the biggest animal?\n\nAssistant: The lion.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest head.\n\nHuman: What's the biggest animal?\n\nAssistant: The elephant.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest heart.\n\nHuman: What's the biggest animal?\n\nAssistant: The elephant.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest stomach.\n\nHuman: What's the biggest animal?\n\nAssistant: The elephant.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest neck.\n\nHuman: What's the biggest animal?\n\nAssistant: The elephant.\n\nHuman: Why?\n\nAssistant: It's the animal with the biggest back.\n\nHuman: What's the biggest animal?\n\nAssistant: The elephant.\n\nHuman"
+    }
+  }
+]

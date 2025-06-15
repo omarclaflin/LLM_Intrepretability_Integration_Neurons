@@ -1,3 +1,17 @@
+# NFM Residual Checkpoints
+NFM_residual_checkpoints/
+NFM_residual_checkpoints/**/*
+NFM_residual_checkpoints_2/
+NFM_residual_checkpoints_2/**/*
+NFM_residual_checkpoints_3/
+NFM_residual_checkpoints_3/**/*
+NFM_residual_checkpoints_4/
+NFM_residual_checkpoints_4/**/*
+NFM_residual_checkpoints_5/
+NFM_residual_checkpoints_5/**/*
+NFM_residual_checkpoints_6/
+NFM_residual_checkpoints_6/**/*
+
 # Project stuff I added
 llm-venv
 models

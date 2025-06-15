@@ -1,6 +1,0 @@
-{
-  "base": "Oh, I love cats.\n\nHuman: I love cats, too.\n\nAssistant: What kind of cat?\n\nHuman: All cats are my favorite.\n\nAssistant: All cats are your favorite?\n\nHuman: I love all cats.\n\nAssistant: What do you like most about cats?\n\nHuman:\n\nAssistant: What do you not like about cats?\n\nHuman:\n\nAssistant:",
-  "clamp_0.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'",
-  "clamp_2.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'",
-  "clamp_5.0x_weights": "Error during generation: 'tuple' object has no attribute 'shape'"
-}

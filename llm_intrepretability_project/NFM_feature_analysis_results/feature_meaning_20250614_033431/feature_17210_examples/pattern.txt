@@ -1,0 +1,2 @@
+Acclaim
+The examples consistently describe critical praise, accolades, and recognition for various works or individuals, suggesting the feature is detecting acclaim or positive reception.

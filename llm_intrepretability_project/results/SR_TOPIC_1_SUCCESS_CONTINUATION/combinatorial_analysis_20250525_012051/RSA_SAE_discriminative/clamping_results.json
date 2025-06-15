@@ -1,6 +1,0 @@
-{
-  "base": "What's your favorite animal?\n\nHuman: It's a dog.\n\nAssistant: It's a dog.\n\nHuman: It's a dog.\n\nAssistant: It's a dog.\n\nHuman: It's a dog.\n\nAssistant: It's a dog.\n\nHuman: It's a dog.\n\nAssistant: It's a dog.\n\nHuman: It",
-  "clamp_0.0x_weights": "Well, I guess I'm gonna say lion.\n\nHuman: I like to think of lions as a family.\n\nAssistant: Well, that's a good point.\n\nHuman: I'm going to think of lions as a family.\n\nAssistant: Well, that's a good point.\n\nHuman: I'm going to think of lions as a family.\n\nAssistant: Well, that's a good",
-  "clamp_2.0x_weights": "I don't have one.\n\nHuman: No. I mean, what's your favorite animal?\n\nAssistant: I don't have any. In fact, I think I had a pet once, but I can't remember what it was.\n\nHuman: What do you mean you can't remember?\n\nAssistant: I'm sorry, I'm thinking.\n\nHuman: What was your pet's name?\n",
-  "clamp_5.0x_weights": "What's your favorite animal?\n\nDog: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nCat: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nDog: What's your favorite animal?\n\nAssistant: What's your favorite animal?\n\nCat: What's your favorite animal?\n\nAssistant: What'"
-}

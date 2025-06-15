@@ -1,2 +1,0 @@
-Summarization
-The examples contain passages that summarize or provide an overview of various topics, such as a video game series, a hockey team's offseason moves, a musician's albums and performances, a comedian's career, general aviation accidents, and trends in general aviation activity.

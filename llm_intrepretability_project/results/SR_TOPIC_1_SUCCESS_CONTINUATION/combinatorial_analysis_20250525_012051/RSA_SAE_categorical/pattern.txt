@@ -1,3 +1,0 @@
-locations
-
-EXPLANATION: The examples consistently mention specific locations or sites, such as towns, castles, schools, and landmarks, suggesting the model is detecting references to places.

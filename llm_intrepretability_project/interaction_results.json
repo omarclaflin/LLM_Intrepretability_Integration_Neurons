@@ -1,0 +1,39 @@
+{
+  "target_feature": 32806,
+  "top_k_dimension": 140,
+  "target_feature_weight_in_k_dim": 0.1771240234375,
+  "strongest_other_feature": 40595,
+  "strongest_other_weight_in_k_dim": 0.232421875,
+  "target_feature_rank_in_k_dim": 23,
+  "k_dimension_analysis": {
+    "dimension_index": 140,
+    "total_features_contributing": 50000,
+    "top_5_contributors": [
+      {
+        "feature_idx": 40595,
+        "weight": 0.232421875,
+        "abs_weight": 0.232421875
+      },
+      {
+        "feature_idx": 23360,
+        "weight": -0.197998046875,
+        "abs_weight": 0.197998046875
+      },
+      {
+        "feature_idx": 28166,
+        "weight": -0.197509765625,
+        "abs_weight": 0.197509765625
+      },
+      {
+        "feature_idx": 17210,
+        "weight": -0.19677734375,
+        "abs_weight": 0.19677734375
+      },
+      {
+        "feature_idx": 13158,
+        "weight": 0.1932373046875,
+        "abs_weight": 0.1932373046875
+      }
+    ]
+  }
+}

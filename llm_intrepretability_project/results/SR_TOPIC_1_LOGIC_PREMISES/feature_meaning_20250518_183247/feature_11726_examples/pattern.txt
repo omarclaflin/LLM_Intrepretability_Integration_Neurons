@@ -1,2 +1,0 @@
-Incorrect facts
-The examples contain statements that are factually incorrect or incomplete, indicating that the common concept being detected is the presence of erroneous information.

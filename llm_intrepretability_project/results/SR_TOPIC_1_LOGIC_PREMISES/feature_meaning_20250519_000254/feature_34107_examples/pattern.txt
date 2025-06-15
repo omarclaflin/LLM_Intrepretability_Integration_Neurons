@@ -1,2 +1,0 @@
-Awards
-The examples frequently mention various awards, accolades, and recognition received by individuals or their work, suggesting the feature is detecting references to awards and honors.

@@ -1,2 +1,0 @@
-band
-The examples often mention music bands, their albums, and related events in their careers, suggesting the concept being detected is about musical groups or bands.
