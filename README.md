@@ -6,7 +6,7 @@ The research is inspired by the question: "Do LLMs encode feature integration, i
 
 ## Project Overview
 
-The residual error from SAE reconstruction was mapped with a non-linear method (NFM), and showed that the residual reconstruction space contains significant (+3-12% relative reconstruction improvement) *non-linear mapping,* that, importantly contributes to the accuracy of the neuron network activation reconstruction. As a baseline control, another (residual) SAE was used instead but demonstrated no contribution (0.1%).
+The residual error from SAE reconstruction was mapped with a non-linear method (Neural Factorization Machine, NFM), and showed that the residual reconstruction space contains significant (+3-12% relative reconstruction improvement) *non-linear mapping,* that, importantly contributes to the accuracy of the neuron network activation reconstruction. As a baseline control, another (residual) SAE was used instead but demonstrated no contribution (0.1%).
 
 ## Results
 
