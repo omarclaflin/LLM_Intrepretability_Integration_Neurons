@@ -10,7 +10,7 @@ The residual error from SAE reconstruction was mapped with a non-linear method (
 
 ## Results
 
-Summary: Basically, an NFM contribute 3-12% relative loss reduction on a SAE reconstruction, in accordance with my hypothesis that features may have meaningful non-linear interactions in neuron activation space. 
+Summary: Basically, an NFM contributes 3-12% relative loss reduction (improved accuracy) on a SAE reconstruction, in accordance with my hypothesis that features may have meaningful non-linear interactions in neuron activation space. 
 I might add later to this section later, listed here for now: (https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
 
 
