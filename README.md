@@ -1,10 +1,12 @@
 # LLM Feature Integration Analysis
 
-This project investigates whether Large Language Models (LLMs) encode feature integration in addition to feature identity. The research is inspired by the question: "Do LLMs encode feature integration, in addition to feature identity?" as discussed in [Information Space Contains Computations, Not Just Features](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/).
+This project investigates whether Large Language Models (LLMs) encode *feature integration* in addition to feature identity (SAE features). 
+
+The research is inspired by the question: "Do LLMs encode feature integration, in addition to feature identity?" as discussed in [Information Space Contains Computations, Not Just Features](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/).
 
 ## Project Overview
 
-The residual error from SAE reconstruction was mapped with a non-linear method (NFM), and showed that the residual reconstruction space contains significant (+3-12% relative reconstruction improvement) non-linear mapping, that, importantly contributes to the accuracy of the neuron network activations. As a baseline control, another SAE was used instead but demonstrated no contribution (0.1%).
+The residual error from SAE reconstruction was mapped with a non-linear method (NFM), and showed that the residual reconstruction space contains significant (+3-12% relative reconstruction improvement) *non-linear mapping,* that, importantly contributes to the accuracy of the neuron network activation reconstruction. As a baseline control, another (residual) SAE was used instead but demonstrated no contribution (0.1%).
 
 ## Results
 
