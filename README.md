@@ -11,6 +11,27 @@ The residual error from SAE reconstruction was mapped with a non-linear method (
 Summary: Basically, an NFM contribute 3-12% relative loss reduction on a SAE reconstruction, in accordance with my hypothesis that features may have meaningful non-linear interactions in neuron activation space. 
 I might add later to this section later, listed here for now: (https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
 
+
+## Technical Approach
+1. Train SAE  (part1_sae_implementation_focused_large_wiki.py)
+2. Train a secondary (residual) SAE on the reconstruction error (part2_residual_SAE_implementation.py): Null, control
+3. Train a NFM on residual/recon error: part2b_residual_NFM_implementation.py, ~6 attempts w/ diff parameters?
+   part2c_residual_NFM_interaction_only_implementation.py -- failed attempt at interaction only
+4. part3_inspect_components.py -- look at NFM components to see if interaction component learned anything
+5. part4_NFM_sparsity_inspector.py -- find top K features (in NFM), top SAE features
+6. part5_find_feature_meaning_large_wiki.py -- investigate top SAE features for semantic identity (via existing dataset, clamping, using Claude API)
+7. part6_find_strongest_feature_interacting.py -- find other top SAE features interacting within top/targetted K features
+8. (part7) -- rerun part5 script on the new SAE feature being targetted 
+9. part8_stimulus_response_analysis.py -- chart/graph generation; inputing a 2x2 design, two targetted SAE, targetted K; outputs linear and non-linear effects of the modulation of both SAE features (via input prompts)
+10. part9_stimlus_response_listOfDiscoveredFeatures_analysis.py -- refactored part8 script; Takes in stimului design ONLY, finds top SAE features (top N, which can be set to 1, finds top K features (via variance, weight contributions, or difference), and does the same analysis/chart output as part8
+
+
+As an example, differential effects between two top-activating feature categories (Paris, #32806)/(Folk, #23360) interactions vs. individual 'main effect' of the features).
+A stimulus-driven discovery approach generates artificial prompts to probe specific feature interactions, then discovers the underlying SAE patterns post-hoc.
+
+## Implication Summary
+This work suggests current interpretability methods like SAEs may be incomplete, as they capture only linear combinations and miss important interaction effects. The findings may explain why polysemantic neurons are robust and prevalent - they perform integration work rather than just storage.
+
 ## Relevance/Related Phenomena:
 
 Some prior observations that may be explained by 'feature integration'/'feature interactions':
