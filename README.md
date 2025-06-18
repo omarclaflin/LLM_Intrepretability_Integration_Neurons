@@ -5,8 +5,8 @@ This project investigates whether Large Language Models (LLMs) encode *feature i
 "Do LLMs encode feature integration, in addition to feature identity?" as discussed in [Information Space Contains Computations, Not Just Features](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/) (much more detailed discussion of the motivations for this project).
 
 Summary: 
-   -largely, a statistical validation/indication that this phenomena (e.g. 'meaningful feature interactions') exist, although still early stage. 
-   -follow-up with a more demonstrative (mechanistic intrepretability) repo, with more optimizations, and a more complete workflow, coming shortly
+   -largely, a statistical validation/indication that this phenomena (e.g. 'meaningful feature interactions') exist, although still early stage.    
+   -follow-up with a more demonstrative (mechanistic intrepretability) repo, with more optimizations, and a more complete workflow, coming shortly    
 
 ## Project Overview
 
