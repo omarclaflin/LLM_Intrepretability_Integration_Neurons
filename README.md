@@ -1,6 +1,7 @@
 # LLM Feature Integration Analysis
 
 This project investigates whether Large Language Models (LLMs) encode *feature integration* in addition to feature identity (SAE features). 
+UDPATE, newer repo/paper included: [https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2)
 
 "Do LLMs encode feature integration, in addition to feature identity?" as discussed in [Information Space Contains Computations, Not Just Features](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/) (much more detailed discussion of the motivations for this project).
 
